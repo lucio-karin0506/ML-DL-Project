@@ -1,0 +1,1000 @@
+,title,uploaded_by,last_updated,usability,files,size,upvotes,badge
+0,COVID-19 Open Research Dataset Challenge (CORD-19),Allen Institute For AI , Updated 12 days ago,8.8," 558167 Files (JSON, CSV, other) ", 14 GB,9710,Gold
+1,Animal Crossing New Horizons Catalog,Jessica Li , Updated 7 months ago,8.2, 30 Files (CSV) , 591 kB,9652,Gold
+2,Credit Card Fraud Detection,Machine Learning Group - ULB , Updated 4 years ago,8.5, 1 File (CSV) , 69 MB,8712,Gold
+3,Netflix Movies and TV Shows,Shivam Bansal , Updated 3 months ago,10.0, 1 File (CSV) , 1 MB,6056,Gold
+4,Novel Corona Virus 2019 Dataset,SRK , Updated 6 months ago,9.7, 6 Files (CSV) , 9 MB,5679,Gold
+5,Heart Disease UCI,ronit , Updated 4 years ago,7.6, 1 File (CSV) , 3 kB,5538,Gold
+6,Chest X-Ray Images (Pneumonia),Paul Mooney , Updated 4 years ago,7.5, 5856 Files (other) , 2 GB,4637,Gold
+7,Trending YouTube Video Statistics,Mitchell J , Updated 3 years ago,7.9," 20 Files (CSV, JSON) ", 211 MB,4365,Gold
+8,Video Game Sales,GregorySmith , Updated 5 years ago,5.9, 1 File (CSV) , 390 kB,4205,Gold
+9,Google Play Store Apps,Lavanya , Updated 3 years ago,7.1," 3 Files (CSV, other) ", 2 MB,3846,Gold
+10,FIFA 19 complete player dataset,Karan Gadiya , Updated 3 years ago,10.0, 1 File (CSV) , 2 MB,3738,Gold
+11,European Soccer Database,Hugo Mathien , Updated 5 years ago,7.1, 1 File (SQLITE) , 34 MB,3646,Gold
+12,Huge Stock Market Dataset,Boris Marjanovic , Updated 4 years ago,7.5, 8539 Files (other) , 516 MB,3518,Gold
+13,World Happiness Report,Sustainable Development Solutions Network , Updated 2 years ago,8.5, 5 Files (CSV) , 38 kB,3388,Gold
+14,Data Science Cheat Sheets,Timo Bozsolik , Updated 2 years ago,8.8, 251 Files (other) , 625 MB,3341,Gold
+15,Wine Reviews,zackthoutt , Updated 4 years ago,7.9," 3 Files (CSV, JSON) ", 53 MB,3240,Gold
+16,Students Performance in Exams,Jakki Seshapanpu , Updated 3 years ago,7.1, 1 File (CSV) , 9 kB,3001,Gold
+17,TMDB 5000 Movie Dataset,The Movie Database (TMDb) , Updated 4 years ago,8.2, 2 Files (CSV) , 9 MB,2908,Gold
+18,Bitcoin Historical Data,Zielak , Updated 9 months ago,10.0, 1 File (CSV) , 105 MB,2862,Gold
+19,Pima Indians Diabetes Database,UCI Machine Learning , Updated 5 years ago,8.8, 1 File (CSV) , 9 kB,2852,Gold
+20,Iris Species,UCI Machine Learning , Updated 5 years ago,7.9," 2 Files (SQLITE, CSV) ", 4 kB,2760,Gold
+21,Suicide Rates Overview 1985 to 2016,Rusty , Updated 3 years ago,8.2, 1 File (CSV) , 407 kB,2760,Gold
+22,Avocado Prices,Justin Kiggins , Updated 4 years ago,9.7, 1 File (CSV) , 644 kB,2711,Gold
+23,The Movies Dataset,Rounak Banik , Updated 4 years ago,8.2, 7 Files (CSV) , 239 MB,2698,Gold
+24,Breast Cancer Wisconsin (Diagnostic) Data Set,UCI Machine Learning , Updated 5 years ago,8.5, 1 File (CSV) , 50 kB,2511,Gold
+25,New York City Airbnb Open Data,Dgomonov , Updated 2 years ago,10.0," 2 Files (CSV, other) ", 3 MB,2490,Gold
+26,FiveThirtyEight Comic Characters Dataset,FiveThirtyEight , Updated 3 years ago,8.2," 3 Files (CSV, other) ", 611 kB,2424,Gold
+27,Global Terrorism Database,START Consortium , Updated 3 years ago,8.5, 1 File (CSV) , 30 MB,2270,Gold
+28,Fruits 360,Mihai Oltean , Updated 4 months ago,8.8, 102967 Files (other) , 1 GB,2234,Gold
+29,Heart Attack Analysis & Prediction Dataset,Rashik Rahman , Updated 9 months ago,10.0, 2 Files (CSV) , 4 kB,2198,Gold
+30,Pokemon with stats,Alberto Barradas , Updated 5 years ago,8.8, 1 File (CSV) , 15 kB,2048,Gold
+31,Fashion MNIST,Zalando Research , Updated 4 years ago,8.5," 6 Files (CSV, other) ", 72 MB,2033,Gold
+32,COVID-19 World Vaccination Progress,Gabriel Preda , Updated 6 days ago,10.0, 2 Files (CSV) , 2 MB,1970,Gold
+33,Brazilian E-Commerce Public Dataset by Olist,Olist , Updated 3 months ago,10.0, 9 Files (CSV) , 45 MB,1946,Gold
+34,Red Wine Quality,UCI Machine Learning , Updated 4 years ago,8.8, 1 File (CSV) , 26 kB,1898,Gold
+35,Telco Customer Churn,BlastChar , Updated 4 years ago,8.8, 1 File (CSV) , 176 kB,1879,Gold
+36,Mushroom Classification,UCI Machine Learning , Updated 5 years ago,8.5, 1 File (CSV) , 35 kB,1813,Gold
+37,Stroke Prediction Dataset,fedesoriano , Updated a year ago,10.0, 1 File (CSV) , 69 kB,1810,Gold
+38,Amazon Fine Food Reviews,Stanford Network Analysis Project , Updated 5 years ago,7.9," 3 Files (SQLITE, CSV, other) ", 254 MB,1791,Gold
+39,IBM HR Analytics Employee Attrition & Performance,pavansubhash , Updated 5 years ago,8.8, 1 File (CSV) , 51 kB,1767,Gold
+40,COVID-19 in India,SRK , Updated 5 months ago,9.1, 2 Files (CSV) , 776 kB,1711,Gold
+41,"House Sales in King County, USA",harlfoxem , Updated 5 years ago,7.1, 1 File (CSV) , 798 kB,1676,Gold
+42,Climate Change: Earth Surface Temperature Data,Berkeley Earth , Updated 5 years ago,7.6, 5 Files (CSV) , 89 MB,1672,Gold
+43,Graduate Admission 2,Mohan S Acharya , Updated 3 years ago,7.1, 2 Files (CSV) , 10 kB,1661,Gold
+44,Hotel booking demand,Jesse Mostipak , Updated 2 years ago,10.0, 1 File (CSV) , 1 MB,1663,Gold
+45,120 years of Olympic history: athletes and results,rgriffin , Updated 4 years ago,8.2, 2 Files (CSV) , 6 MB,1626,Gold
+46,Medical Cost Personal Datasets,Miri Choi , Updated 4 years ago,8.8, 1 File (CSV) , 16 kB,1598,Gold
+47,World Development Indicators,Kaggle , Updated 5 years ago,7.6," 8 Files (SQLITE, CSV, other) ", 387 MB,1584,Gold
+48,Heart Failure Prediction,Larxel , Updated 2 years ago,10.0, 1 File (CSV) , 4 kB,1533,Gold
+49,[NeurIPS 2020] Data Science for COVID-19 (DS4C),datartist , Updated a year ago,10.0, 11 Files (CSV) , 7 MB,1511,Gold
+50,COVID-19 Dataset,Devakumar K. P. , Updated a year ago,10.0, 6 Files (CSV) , 20 MB,1494,Gold
+51,Flowers Recognition,Alexander Mamaev , Updated 6 months ago,6.3, 4317 Files (other) , 236 MB,1487,Gold
+52,Kickstarter Projects,Mickaël Mouillé , Updated 4 years ago,7.9, 2 Files (CSV) , 39 MB,1479,Gold
+53,Daily News for Stock Market Prediction,Aaron7sun , Updated 2 years ago,7.1, 3 Files (CSV) , 6 MB,1438,Gold
+54,Student Alcohol Consumption,UCI Machine Learning , Updated 5 years ago,8.5," 3 Files (CSV, other) ", 19 kB,1431,Gold
+55,Reddit Vaccine Myths,Gabriel Preda , Updated 22 days ago,10.0, 1 File (CSV) , 243 kB,1429,Gold
+56,US Accidents (updated),Sobhan Moosavi , Updated 4 months ago,10.0, 1 File (CSV) , 123 MB,1419,Gold
+57,mlcourse.ai,Yury Kashnitsky , Updated 3 years ago,8.8," 30 Files (CSV, other) ", 54 MB,1413,Gold
+58,Goodreads-books,Soumik , Updated 2 years ago,10.0, 1 File (CSV) , 637 kB,1406,Gold
+59,Credit Card customers,Sakshi Goyal , Updated a year ago,10.0, 1 File (CSV) , 388 kB,1403,Gold
+60,Yelp Dataset,"Yelp, Inc. ", Updated 10 months ago,7.5," 6 Files (JSON, other) ", 5 GB,1392,Gold
+61,International football results from 1872 to 2021,Mart Jürisoo , Updated 20 days ago,10.0, 2 Files (CSV) , 571 kB,1384,Gold
+62,Customer Personality Analysis,Akash Patel , Updated 4 months ago,9.7, 1 File (CSV) , 63 kB,1377,Gold
+63,Heart Failure Prediction Dataset,fedesoriano , Updated 4 months ago,10.0, 1 File (CSV) , 9 kB,1403,Gold
+64,Sentiment140 dataset with 1.6 million tweets,Μαριος Μιχαηλιδης KazAnova , Updated 4 years ago,8.8, 1 File (CSV) , 85 MB,1339,Gold
+65,Rain in Australia,Joe Young , Updated a year ago,10.0, 1 File (CSV) , 4 MB,1331,Gold
+66,UNCOVER COVID-19 Challenge,Roche Data Science Coalition , Updated 2 months ago,8.8," 233 Files (CSV, other) ", 270 MB,1280,Gold
+67,Skin Cancer MNIST: HAM10000,K Scott Mader , Updated 3 years ago,7.1," 10020 Files (other, CSV) ", 6 GB,1249,Gold
+68,Fake and real news dataset,Clément Bisaillon , Updated 2 years ago,8.8, 2 Files (CSV) , 43 MB,1246,Gold
+69,Mall Customer Segmentation Data,Vijay Choudhary , Updated 3 years ago,8.8, 1 File (CSV) , 2 kB,1208,Gold
+70,New York Stock Exchange,Dominik Gawlik , Updated 5 years ago,8.5, 4 Files (CSV) , 32 MB,1194,Gold
+71,CelebFaces Attributes (CelebA) Dataset,Jessica Li , Updated 4 years ago,7.6," 202603 Files (other, CSV) ", 1 GB,1167,Gold
+72,E-Commerce Data,Carrie , Updated 4 years ago,7.1, 1 File (CSV) , 8 MB,1153,Gold
+73,Sign Language MNIST,tecperson , Updated 4 years ago,7.6," 5 Files (CSV, other) ", 66 MB,1150,Gold
+74,HR Analytics: Job Change of Data Scientists,Möbius , Updated a year ago,10.0, 3 Files (CSV) , 302 kB,1126,Gold
+75,Mobile App Store ( 7200 apps),Ramanathan , Updated 4 years ago,8.2, 2 Files (CSV) , 6 MB,1118,Gold
+76,World Happiness Report 2021,Ajaypal Singh , Updated 9 months ago,9.7, 2 Files (CSV) , 57 kB,1110,Gold
+77,Malaria Cell Images Dataset,Arunava , Updated 3 years ago,6.3, 27559 Files (other) , 708 MB,1094,Gold
+78,Face Mask Detection,Larxel , Updated 2 years ago,8.8, 1706 Files (other) , 417 MB,1082,Gold
+79,Intel Image Classification,Puneet Bansal , Updated 3 years ago,7.5, 24335 Files (other) , 363 MB,1066,Gold
+80,2021 Olympics in Tokyo,Arjun Prasad Sarkhel , Updated 5 months ago,8.2, 5 Files (other) , 356 kB,1067,Gold
+81,Zomato Bangalore Restaurants,Himanshu Poddar , Updated 3 years ago,10.0, 1 File (CSV) , 93 MB,1065,Gold
+82,Synthetic Financial Datasets For Fraud Detection,Edgar Lopez-Rojas , Updated 5 years ago,8.8, 1 File (CSV) , 186 MB,1062,Gold
+83,Netflix Prize data,Netflix , Updated 2 years ago,7.6," 8 Files (other, CSV) ", 716 MB,1057,Gold
+84,Open Food Facts,Open Food Facts , Updated 4 years ago,7.1, 1 File (other) , 114 MB,1040,Gold
+85,Data Science for Good: Kiva Crowdfunding,Kiva , Updated 4 years ago,8.5, 3 Files (CSV) , 44 MB,1028,Gold
+86,2018 Kaggle Machine Learning & Data Science Survey,Kaggle , Updated 3 years ago,8.5, 3 Files (CSV) , 4 MB,990,Gold
+87,Mobile Price Classification,Abhishek Sharma , Updated 4 years ago,7.1, 2 Files (CSV) , 72 kB,985,Gold
+88,Used Cars Dataset,Austin Reese , Updated 8 months ago,10.0, 1 File (CSV) , 275 MB,970,Gold
+89,(MBTI) Myers-Briggs Personality Type Dataset,Mitchell J , Updated 4 years ago,8.8, 1 File (CSV) , 26 MB,965,Gold
+90,Melbourne Housing Snapshot,DanB , Updated 4 years ago,7.1, 1 File (CSV) , 461 kB,963,Gold
+91,Anime Recommendations Database,CooperUnion , Updated 5 years ago,8.2, 2 Files (CSV) , 26 MB,958,Gold
+92,SMS Spam Collection Dataset,UCI Machine Learning , Updated 5 years ago,7.4, 1 File (CSV) , 216 kB,941,Gold
+93,1.88 Million US Wildfires,Rachael Tatman , Updated 2 years ago,8.2, 1 File (SQLITE) , 176 MB,922,Gold
+94,Chess Game Dataset (Lichess),Mitchell J , Updated 4 years ago,8.2, 1 File (CSV) , 3 MB,918,Gold
+95,World University Rankings,Myles O'Neill , Updated 2 years ago,7.9, 6 Files (CSV) , 1 MB,913,Gold
+96,S&P 500 stock data,Cam Nugent , Updated 4 years ago,7.6," 508 Files (CSV, other) ", 20 MB,899,Gold
+97,NIH Chest X-rays,National Institutes of Health Chest X-Ray Dataset , Updated 4 years ago,7.4," 112128 Files (other, CSV) ", 45 GB,884,Gold
+98,Women's E-Commerce Clothing Reviews,nicapotato , Updated 4 years ago,8.8, 1 File (CSV) , 3 MB,878,Gold
+99,Supermarket sales,Aung Pyae , Updated 3 years ago,8.8, 1 File (CSV) , 37 kB,873,Gold
+100,Twitter US Airline Sentiment,Figure Eight , Updated 2 years ago,8.2," 2 Files (SQLITE, CSV) ", 3 MB,865,Gold
+101,The Complete Pokemon Dataset,Rounak Banik , Updated 4 years ago,8.2, 1 File (CSV) , 48 kB,865,Gold
+102,arXiv Dataset,Cornell University , Updated a day ago,8.8, 1 File (JSON) , 1 GB,863,Gold
+103,Video Game Sales with Ratings,Rush Kirubi , Updated 5 years ago,7.6, 1 File (CSV) , 488 kB,854,Gold
+104,Gun Violence Data,James Ko , Updated 4 years ago,8.5, 1 File (CSV) , 35 MB,851,Gold
+105,Top 50 Spotify Songs - 2019,Leonardo Henrique , Updated 2 years ago,10.0, 1 File (CSV) , 2 kB,847,Gold
+106,Mental Health in Tech Survey,"Open Sourcing Mental Illness, LTD ", Updated 5 years ago,8.8, 1 File (CSV) , 50 kB,845,Gold
+107,2015 Flight Delays and Cancellations,Department of Transportation , Updated 5 years ago,8.8, 3 Files (CSV) , 200 MB,841,Gold
+108,2017 Kaggle Machine Learning & Data Science Survey,Kaggle , Updated 4 years ago,8.2," 5 Files (CSV, other) ", 4 MB,840,Gold
+109,Game of Thrones,Myles O'Neill , Updated 6 years ago,8.5, 3 Files (CSV) , 68 kB,837,Gold
+110,Amazon Top 50 Bestselling Books 2009 - 2019,Sooter Saalu , Updated a year ago,10.0, 1 File (CSV) , 15 kB,837,Gold
+111,Best Artworks of All Time,Icaro , Updated 3 years ago,7.1," 16802 Files (other, CSV) ", 2 GB,831,Gold
+112,Medical Appointment No Shows,JoniHoppen , Updated 4 years ago,7.1, 1 File (CSV) , 3 MB,827,Gold
+113,Water Quality,Aditya Kadiwal , Updated 8 months ago,10.0, 1 File (CSV) , 257 kB,824,Gold
+114,Campus Recruitment,Ben Roshan , Updated 2 years ago,10.0, 1 File (CSV) , 5 kB,810,Gold
+115,UFC-Fight historical data from 1993 to 2021,Rajeev Warrier , Updated 9 months ago,9.7, 4 Files (CSV) , 4 MB,787,Gold
+116,Where it Pays to Attend College,The Wall Street Journal , Updated 5 years ago,8.2, 3 Files (CSV) , 17 kB,776,Gold
+117,Chocolate Bar Ratings,Rachael Tatman , Updated 4 years ago,7.6, 1 File (CSV) , 31 kB,775,Gold
+118,Cat and Dog,SchubertSlySchubert , Updated 4 years ago,7.5, 10032 Files (other) , 228 MB,774,Gold
+119,A Large Scale Fish Dataset,Oğuzhan Ulucan , Updated 8 months ago,9.4, 18436 Files (other) , 3 GB,779,Gold
+120,Stanford Dogs Dataset,Jessica Li , Updated 2 years ago,7.5, 41160 Files (other) , 787 MB,774,Gold
+121,Diamonds,Shivam Agrawal , Updated 5 years ago,7.6, 1 File (CSV) , 751 kB,770,Gold
+122,Cryptocurrency Historical Prices,SRK , Updated 6 months ago,9.7, 23 Files (CSV) , 2 MB,767,Gold
+123,Cardiovascular Disease dataset,Svetlana Ulianova , Updated 3 years ago,6.5, 1 File (CSV) , 760 kB,764,Gold
+124,News Headlines Dataset For Sarcasm Detection,Rishabh Misra , Updated 2 years ago,10.0, 2 Files (JSON) , 3 MB,757,Gold
+125,World Health Statistics 2020|Complete|Geo-Analysis,Zeus , Updated 7 months ago,10.0, 39 Files (CSV) , 1 MB,753,Gold
+126,Retail Data Analytics,Manjeet Singh , Updated 4 years ago,8.2, 3 Files (CSV) , 3 MB,751,Gold
+127,FIFA World Cup,Andre Becklas , Updated 4 years ago,8.8, 3 Files (CSV) , 358 kB,743,Gold
+128,Amazon Reviews for Sentiment Analysis,Adam Bittlingmayer , Updated 2 years ago,6.9, 2 Files (other) , 517 MB,740,Gold
+129,Default of Credit Card Clients Dataset,UCI Machine Learning , Updated 5 years ago,7.1, 1 File (CSV) , 1 MB,738,Gold
+130,Ramen Ratings,Aleksey Bilogur , Updated 4 years ago,7.1, 1 File (CSV) , 41 kB,732,Gold
+131,Solar Power Generation Data,Ani Kannal , Updated a year ago,10.0, 4 Files (CSV) , 2 MB,718,Gold
+132,Gender Recognition by Voice,Kory Becker , Updated 5 years ago,7.1, 1 File (CSV) , 415 kB,714,Gold
+133,Data Science for Good: PASSNYC,PASSNYC , Updated 4 years ago,8.5, 2 Files (CSV) , 168 kB,712,Gold
+134,NBA Players stats since 1950,Omri Goldstein , Updated 4 years ago,6.8, 3 Files (CSV) , 2 MB,707,Gold
+135,GTSRB - German Traffic Sign Recognition Benchmark,Mykola , Updated 3 years ago,8.2," 51888 Files (other, CSV) ", 642 MB,709,Gold
+136,TED Talks,Rounak Banik , Updated 4 years ago,8.8, 2 Files (CSV) , 13 MB,705,Gold
+137,Breast Histopathology Images,Paul Mooney , Updated 4 years ago,7.5, 277524 Files (other) , 3 GB,702,Gold
+138,FitBit Fitness Tracker Data,Möbius , Updated a year ago,10.0, 18 Files (CSV) , 25 MB,705,Gold
+139,Human Resources Data Set,Dr. Rich , Updated a year ago,8.2, 1 File (CSV) , 17 kB,701,Gold
+140,Indian Premier League (Cricket),Manas , Updated 4 years ago,8.5, 2 Files (CSV) , 1 MB,698,Gold
+141,Sign Language Digits Dataset,Arda Mavi , Updated 4 years ago,6.3, 2 Files (other) , 18 MB,699,Gold
+142,17K Mobile Strategy Games,Tristan , Updated 2 years ago,10.0, 1 File (CSV) , 9 MB,692,Gold
+143,Speed Dating Experiment,Anna Montoya , Updated 6 years ago,5.9, 1 File (CSV) , 382 kB,690,Gold
+144,Life Expectancy (WHO),KumarRajarshi , Updated 4 years ago,8.2, 1 File (CSV) , 121 kB,681,Gold
+145,Blood Cell Images,Paul Mooney , Updated 4 years ago,7.1," 13225 Files (other, CSV) ", 113 MB,679,Gold
+146,Forest Fires in Brazil,Luís Gustavo Modelli , Updated 2 years ago,9.4, 1 File (CSV) , 32 kB,678,Gold
+147,Latest Covid-19 India Statewise Data,Anandhu H , Updated 7 days ago,10.0, 1 File (CSV) , 1 kB,677,Gold
+148,Big Five Personality Test,Bojan Tunguz , Updated 2 years ago,10.0," 3 Files (CSV, other) ", 167 MB,674,Gold
+149,Countries of the World,Fernando Lasso , Updated 4 years ago,8.2, 1 File (CSV) , 14 kB,673,Gold
+150,IMDB Dataset of 50K Movie Reviews,Lakshmipathi N , Updated 3 years ago,8.2, 1 File (CSV) , 27 MB,671,Gold
+151,SF Salaries,Kaggle , Updated 2 years ago,7.1," 2 Files (SQLITE, CSV) ", 12 MB,670,Gold
+152,ASL Alphabet,Akash , Updated 4 years ago,8.8, 87028 Files (other) , 1 GB,669,Gold
+153,Hourly Energy Consumption,Rob Mulla , Updated 3 years ago,10.0," 14 Files (CSV, other) ", 12 MB,665,Gold
+154,Brain MRI Images for Brain Tumor Detection,Navoneel Chakrabarty , Updated 3 years ago,5.0, 253 Files (other) , 16 MB,660,Gold
+155,CT Medical Images,K Scott Mader , Updated 5 years ago,7.6," 202 Files (other, CSV) ", 262 MB,659,Gold
+156,Young People Survey,Miroslav Sabo , Updated 5 years ago,8.5, 2 Files (CSV) , 86 kB,651,Gold
+157,Crimes in Boston,Analyze Boston , Updated 3 years ago,8.2, 2 Files (CSV) , 11 MB,645,Gold
+158,Titanic,Khashayar Baghizadeh Hosseini , Updated 5 years ago,7.1, 1 File (CSV) , 11 kB,645,Gold
+159,Formula 1 World Championship (1950 - 2021),Vopani , Updated 6 days ago,10.0, 13 Files (CSV) , 6 MB,639,Gold
+160,Kepler Exoplanet Search Results,NASA , Updated 4 years ago,8.2, 1 File (CSV) , 1 MB,636,Gold
+161,325 Bird Species - Classification,Gerry , Updated a month ago,8.8," 50592 Files (other, CSV) ", 1 GB,631,Gold
+162,Detailed NFL Play-by-Play Data 2009-2018,Max Horowitz , Updated 3 years ago,6.8, 3 Files (CSV) , 287 MB,623,Gold
+163,Indian Startup Funding,SRK , Updated 2 years ago,10.0, 1 File (CSV) , 123 kB,620,Gold
+164,California Housing Prices,Cam Nugent , Updated 4 years ago,8.5, 1 File (CSV) , 409 kB,617,Gold
+165,"Movies on Netflix, Prime Video, Hulu and Disney+",Ruchi Bhatia , Updated 18 days ago,10.0, 1 File (CSV) , 170 kB,614,Gold
+166,Chicago Crime,City of Chicago , Updated 4 years ago,7.1, BigQuery, BigQuery,609,Gold
+167,The Enron Email Dataset,Will Cukierski , Updated 6 years ago,7.1, 1 File (CSV) , 375 MB,608,Gold
+168,Formula 1 Race Data,Chris G , Updated 4 years ago,7.9, 13 Files (CSV) , 5 MB,609,Gold
+169,Melbourne Housing Market,Tony Pino , Updated 3 years ago,7.4, 2 Files (CSV) , 2 MB,602,Gold
+170,Students' Academic Performance Dataset,Ibrahim Aljarah , Updated 5 years ago,7.4, 1 File (CSV) , 6 kB,598,Gold
+171,Google-Landmarks Dataset,Google , Updated 9 months ago,7.6, 7 Files (CSV) , 120 MB,594,Gold
+172,COVID-19 Radiography Database,Tawsifur Rahman , Updated 10 months ago,9.4, 21170 Files (other) , 781 MB,595,Gold
+173,A Million News Headlines,Rohit Kulkarni , Updated a year ago,10.0, 1 File (CSV) , 22 MB,585,Gold
+174,Meta Kaggle,Kaggle , Updated 12 days ago,7.6, 32 Files (CSV) , 5 GB,584,Gold
+175,Zillow Economics Data,Zillow , Updated 4 years ago,7.1," 11 Files (CSV, JSON) ", 536 MB,584,Gold
+176,ECG Heartbeat Categorization Dataset,Shayan Fazeli , Updated 4 years ago,5.9, 4 Files (CSV) , 104 MB,579,Gold
+177,Health Insurance Cross Sell Prediction 🏠 🏥,Anmol Kumar , Updated a year ago,10.0, 3 Files (CSV) , 7 MB,576,Gold
+178,Zomato Restaurants Data,Shruti Mehta , Updated 4 years ago,7.9," 7 Files (JSON, CSV, other) ", 6 MB,573,Gold
+179,Bitcoin Blockchain Historical Data,Google BigQuery , Updated 3 years ago,7.4, BigQuery, BigQuery,567,Gold
+180,Cat Dataset,Chris Crawford , Updated 4 years ago,8.1, 20001 Files (other) , 4 GB,564,Gold
+181,WHO Suicide Statistics,Szamil , Updated 3 years ago,10.0, 1 File (CSV) , 311 kB,552,Gold
+182,Football Events,Alin Secareanu , Updated 5 years ago,7.6," 3 Files (CSV, other) ", 22 MB,551,Gold
+183,Annotated Corpus for Named Entity Recognition,Abhinav Walia , Updated 4 years ago,8.5, 2 Files (CSV) , 28 MB,542,Gold
+184,UFO Sightings,National UFO Reporting Center (NUFORC) , Updated 2 years ago,5.9, 2 Files (CSV) , 11 MB,543,Gold
+185,League of Legends Diamond Ranked Games (10 min),michel's fanboi , Updated 2 years ago,10.0, 1 File (CSV) , 552 kB,533,Gold
+186,Health Insurance Marketplace,US Department of Health and Human Services , Updated 5 years ago,7.4," 34 Files (CSV, SQLITE, other) ", 869 MB,531,Gold
+187,Uber Pickups in New York City,FiveThirtyEight , Updated 2 years ago,7.6, 19 Files (CSV) , 114 MB,528,Gold
+188,Vehicle dataset,Nehal Birla , Updated a year ago,10.0, 3 Files (CSV) , 233 kB,525,Gold
+189,Human Activity Recognition with Smartphones,UCI Machine Learning , Updated 2 years ago,7.1, 2 Files (CSV) , 26 MB,521,Gold
+190,All Lending Club loan data,Nathan George , Updated 3 years ago,7.5, 2 Files (other) , 1 GB,522,Gold
+191,US Election 2020,Raphael Fontes , Updated a year ago,10.0, 11 Files (CSV) , 439 kB,519,Gold
+192,Emergency - 911 Calls,Mike Chirico , Updated a year ago,10.0, 1 File (CSV) , 25 MB,517,Gold
+193,Heartbeat Sounds,Ed King , Updated 5 years ago,7.6," 835 Files (other, CSV) ", 115 MB,514,Gold
+194,NIFTY-50 Stock Market Data (2000 - 2021),Vopani , Updated 8 months ago,10.0, 52 Files (CSV) , 19 MB,516,Gold
+195,2016 US Election,Ben Hamner , Updated 2 years ago,7.9," 29 Files (other, SQLITE, CSV) ", 18 MB,513,Gold
+196,2019 Coronavirus dataset (January - February 2020),Brenda So , Updated 2 years ago,7.4, 9 Files (CSV) , 54 kB,511,Gold
+197,All the news,Andrew Thompson , Updated 4 years ago,7.4, 3 Files (CSV) , 255 MB,508,Gold
+198,News Category Dataset,Rishabh Misra , Updated 3 years ago,10.0, 1 File (JSON) , 27 MB,509,Gold
+199,Brain MRI segmentation,Mateusz Buda , Updated 3 years ago,8.2," 7860 Files (other, CSV) ", 749 MB,507,Gold
+200,Haberman's Survival Data Set,GilSousa , Updated 5 years ago,7.1, 1 File (CSV) , 998 B,504,Gold
+201,"100,000 UK Used Car Data set",Aditya , Updated a year ago,10.0, 13 Files (CSV) , 1 MB,501,Gold
+202,Real / Fake Job Posting Prediction,Shivam Bansal , Updated 2 years ago,10.0, 1 File (CSV) , 17 MB,499,Gold
+203,Getting Real about Fake News,Meg Risdal , Updated 5 years ago,7.1, 1 File (CSV) , 20 MB,497,Gold
+204,MNIST in CSV,Dariel Dato-on , Updated 4 years ago,8.2, 2 Files (CSV) , 16 MB,498,Gold
+205,Exoplanet Hunting in Deep Space,WΔ , Updated 5 years ago,8.2, 2 Files (CSV) , 59 MB,495,Gold
+206,Dogs & Cats Images,chetanimravan , Updated 4 years ago,5.6, 10000 Files (other) , 456 MB,492,Gold
+207,Every Cryptocurrency Daily Market Price,jvent , Updated 3 years ago,8.5, 1 File (CSV) , 24 MB,489,Gold
+208,Car Features and MSRP,CooperUnion , Updated 5 years ago,7.6, 1 File (CSV) , 106 kB,489,Silver
+209,FIFA 20 complete player dataset,Stefano Leone , Updated 2 years ago,10.0, 7 Files (CSV) , 15 MB,480,Gold
+210,Hand Gesture Recognition Database,GTI , Updated 3 years ago,7.5, 20000 Files (other) , 2 GB,478,Gold
+211,Animals-10,Corrado Alessio , Updated 2 years ago,8.8, 26180 Files (other) , 614 MB,479,Gold
+212,515K Hotel Reviews Data in Europe,Jiashen Liu , Updated 4 years ago,8.2, 1 File (CSV) , 47 MB,476,Gold
+213,COVID19 Tweets,Gabriel Preda , Updated a year ago,10.0, 1 File (CSV) , 29 MB,475,Gold
+214,Adult Census Income,UCI Machine Learning , Updated 5 years ago,7.1, 1 File (CSV) , 461 kB,471,Gold
+215,Stack Overflow Data,Stack Overflow , Updated 3 years ago,6.5, BigQuery, BigQuery,469,Gold
+216,COVID-19 CT scans,Larxel , Updated 2 years ago,10.0," 81 Files (other, CSV) ", 1 GB,471,Gold
+217,The Simpsons Characters Data,alexattia , Updated 4 years ago,7.9," 42860 Files (other, CSV) ", 1 GB,462,Gold
+218,Data Analyst Jobs,Larxel , Updated a year ago,10.0, 1 File (CSV) , 2 MB,461,Gold
+219,FER-2013,Manas Sambare , Updated a year ago,7.5, 35887 Files (other) , 63 MB,456,Gold
+220,CoronaHack -Chest X-Ray-Dataset,Praveen , Updated 2 years ago,9.4," 5935 Files (other, CSV) ", 1 GB,454,Gold
+221,Cervical Cancer Risk Classification,Gokagglers , Updated 4 years ago,8.2, 1 File (CSV) , 9 kB,452,Gold
+222,Indian Food 101,Neha Prabhavalkar , Updated a year ago,10.0, 1 File (CSV) , 7 kB,453,Gold
+223,NHL Game Data,Martin Ellis , Updated a year ago,7.9," 14 Files (CSV, other) ", 252 MB,450,Silver
+224,Historical Hourly Weather Data 2012-2017,David Beniaguev , Updated 4 years ago,7.1, 7 Files (CSV) , 13 MB,448,Gold
+225,Food Images (Food-101),K Scott Mader , Updated 4 years ago,8.1," 101016 Files (other, JSON) ", 6 GB,448,Gold
+226,80 Cereals,Chris Crawford , Updated 4 years ago,8.5, 1 File (CSV) , 2 kB,446,Gold
+227,New Plant Diseases Dataset,Samir Bhattarai , Updated 3 years ago,7.5, 87900 Files (other) , 3 GB,443,Gold
+228,"Homicide Reports, 1980-2014",Murder Accountability Project , Updated 5 years ago,8.5, 1 File (CSV) , 10 MB,434,Gold
+229,"Significant Earthquakes, 1965-2016",US Geological Survey , Updated 5 years ago,8.5, 1 File (CSV) , 604 kB,433,Gold
+230,Retailrocket recommender system dataset,Retailrocket , Updated 5 years ago,8.8, 4 Files (CSV) , 305 MB,433,Gold
+231,Education Statistics,World Bank , Updated 3 years ago,5.9," 6 Files (CSV, other) ", 79 MB,430,Gold
+232,Company Bankruptcy Prediction,fedesoriano , Updated a year ago,10.0, 1 File (CSV) , 5 MB,430,Gold
+233,Coronavirus tweets NLP - Text Classification,Aman Miglani , Updated a year ago,10.0, 2 Files (CSV) , 5 MB,431,Gold
+234,California Traffic Collision Data from SWITRS,Alex Gude , Updated 4 months ago,9.4, 1 File (SQLITE) , 2 GB,428,Gold
+235,400+ crypto currency pairs at 1-minute resolution,Carsten , Updated 3 days ago,8.2, 425 Files (CSV) , 1 GB,428,Gold
+236,Electric Motor Temperature,Kirgsn , Updated 8 months ago,10.0, 1 File (CSV) , 122 MB,426,Gold
+237,MovieLens 20M Dataset,GroupLens , Updated 3 years ago,7.1, 6 Files (CSV) , 205 MB,424,Gold
+238,Python Data Science Handbook,Timo Bozsolik , Updated 14 days ago,9.4, 16 MB, 16 MB,423,Gold
+239,PlantVillage Dataset,Tairu Oluwafemi Emmanuel , Updated 3 years ago,5.6, 20639 Files (other) , 690 MB,423,Silver
+240,10 Monkey Species,Mario , Updated 4 years ago,8.1, 1371 Files (other) , 574 MB,421,Gold
+241,PUBG Match Deaths and Statistics,KP , Updated 4 years ago,7.6," 12 Files (CSV, other) ", 4 GB,421,Gold
+242,India - Trade Data,Lakshya Agarwal , Updated 2 years ago,10.0, 2 Files (CSV) , 1 MB,421,Gold
+243,U.S. Education Datasets: Unification Project,Roy Garrard , Updated 2 years ago,8.8," 76 Files (CSV, other) ", 155 MB,421,Silver
+244,Groceries dataset,Heeral Dedhia , Updated a year ago,10.0, 1 File (CSV) , 263 kB,420,Gold
+245,Berlin Airbnb Data,Britta Bettendorf , Updated 3 years ago,8.2, 6 Files (CSV) , 92 MB,419,Gold
+246,Hacker News,Hacker News , Updated 3 years ago,7.1, BigQuery, BigQuery,419,Gold
+247,Stack Overflow 2018 Developer Survey,Stack Overflow , Updated 4 years ago,8.5, 2 Files (CSV) , 21 MB,418,Gold
+248,U.S. Pollution Data,BrendaSo , Updated 5 years ago,7.1, 1 File (CSV) , 27 MB,418,Silver
+249,A-Z Handwritten Alphabets in .csv format,Sachin Patel , Updated 4 years ago,8.2, 1 File (CSV) , 194 MB,416,Gold
+250,Diagnosis of COVID-19 and its clinical spectrum,Einstein Data4u , Updated 2 years ago,4.7, 1 File (other) , 570 kB,416,Gold
+251,IPL Complete Dataset (2008-2020),Prateek Bhardwaj , Updated a year ago,9.7, 2 Files (CSV) , 1 MB,416,Gold
+252,Smart meters in London,Jean-Michel D. , Updated 3 years ago,8.2," 9 Files (other, CSV) ", 2 GB,416,Gold
+253,Pokemon- Weedle's Cave,T7 - Hackathon Challenge , Updated 4 years ago,7.4, 3 Files (CSV) , 292 kB,413,Gold
+254,Wikipedia Movie Plots,JustinR , Updated 3 years ago,8.8, 1 File (CSV) , 31 MB,409,Gold
+255,US counties COVID 19 dataset,MyrnaMFL , Updated 2 days ago,9.4, 23 MB, 23 MB,407,Gold
+256,Customer Support on Twitter,Thought Vector , Updated 4 years ago,9.1, 2 Files (CSV) , 177 MB,406,Gold
+257,Reddit WallStreetBets Posts,Gabriel Preda , Updated 5 months ago,10.0, 1 File (CSV) , 17 MB,404,Gold
+258,Keras Pretrained models,beluga , Updated 4 years ago,8.1," 11 Files (other, JSON) ", 989 MB,403,Gold
+259,Food.com Recipes and Interactions,Shuyang Li , Updated 2 years ago,10.0," 8 Files (CSV, other) ", 280 MB,402,Gold
+260,Credit Card Approval Prediction,Seanny , Updated 2 years ago,10.0, 2 Files (CSV) , 6 MB,403,Gold
+261,Sample Sales Data,Gus Segura , Updated 5 years ago,7.1, 1 File (CSV) , 79 kB,401,Bronze
+262,Face Detection in Images,DataTurks , Updated 3 years ago,7.5, 1 File (JSON) , 57 kB,402,Gold
+263,Who eats the food we grow?,Dor Oppenheim , Updated 4 years ago,8.5, 1 File (CSV) , 895 kB,399,Gold
+264,Airplane Crashes Since 1908,Sauro Grandi , Updated 5 years ago,10.0, 1 File (CSV) , 577 kB,397,Gold
+265,Food choices,BoraPajo , Updated 5 years ago,8.5," 2 Files (other, CSV) ", 6 MB,396,Silver
+266,MyAnimeList Dataset,Azathoth , Updated 4 years ago,8.5, 9 Files (CSV) , 2 GB,396,Gold
+267,World Happiness Report 2019,PromptCloud , Updated 3 years ago,10.0, 1 File (CSV) , 4 kB,395,Gold
+268,Dota 2 Matches,Devin Anzelmo , Updated 2 years ago,7.1," 19 Files (CSV, JSON) ", 455 MB,394,Gold
+269,Fatal Police Shootings in the US,Karolina Wullum , Updated 4 years ago,8.5, 5 Files (CSV) , 1 MB,393,Gold
+270,Sales of summer clothes in E-commerce Wish,Jeffrey Mvutu Mabilama , Updated 8 months ago,9.1, 320 Files (CSV) , 46 MB,392,Gold
+271,Iris Flower Dataset,MathNerd , Updated 4 years ago,8.2, 1 File (CSV) , 1 kB,392,Gold
+272,FIFA 18 Complete Player Dataset,Aman Shrivastava , Updated 4 years ago,7.9, 4 Files (CSV) , 4 MB,390,Gold
+273,All Trump's Twitter insults (2015-2021),Ayush Garg , Updated a year ago,10.0, 1 File (CSV) , 595 kB,390,Gold
+274,1.6 million UK traffic accidents,Dave Fisher-Hickey , Updated 4 years ago,7.9," 7 Files (CSV, other) ", 139 MB,388,Gold
+275,Retinal OCT Images (optical coherence tomography),Paul Mooney , Updated 4 years ago,7.5, 84484 Files (other) , 12 GB,388,Gold
+276,Ships in Satellite Imagery,rhammell , Updated 3 years ago,8.1," 4009 Files (JSON, other) ", 194 MB,386,Gold
+277,MRI and Alzheimers,Jacob Boysen , Updated 4 years ago,8.5, 2 Files (CSV) , 13 kB,385,Gold
+278,Coronavirus - Brazil,Raphael Fontes , Updated 7 months ago,10.0, 6 Files (CSV) , 28 MB,385,Gold
+279,Nutrition Facts for McDonald's Menu,McDonald's , Updated 5 years ago,7.1, 1 File (CSV) , 8 kB,384,Silver
+280,eCommerce behavior data from multi category store,Michael Kechinov , Updated 2 years ago,10.0, 2 Files (CSV) , 5 GB,382,Gold
+281,Starbucks Locations Worldwide,Starbucks , Updated 5 years ago,5.9, 1 File (CSV) , 1 MB,381,Silver
+282,World Cities Database,Max Mind , Updated 4 years ago,8.2," 2 Files (CSV, other) ", 44 MB,378,Silver
+283,Diabetic Retinopathy (resized),ilovescience , Updated 3 years ago,5.9," 70236 Files (other, CSV) ", 8 GB,377,Gold
+284,Stock Exchange Data,Cody , Updated 7 months ago,10.0, 3 Files (CSV) , 5 MB,377,Gold
+285,Stanford Cars Dataset,Jessica Li , Updated 4 years ago,8.1, 16186 Files (other) , 2 GB,375,Gold
+286,Trip Advisor Hotel Reviews,Larxel , Updated a year ago,10.0, 1 File (CSV) , 5 MB,374,Gold
+287,goodbooks-10k,Foxtrot , Updated 4 years ago,8.2," 6 Files (CSV, other) ", 12 MB,373,Gold
+288,Pokemon Image Dataset,Vishal Subbiah , Updated 3 years ago,9.4," 810 Files (other, CSV) ", 3 MB,368,Gold
+289,QuickDraw Sketches,Google , Updated 4 years ago,8.1, 695 Files (other) , 12 GB,368,Gold
+290,Crime in India,Rajanand Ilangovan , Updated 4 years ago,7.6, 76 Files (CSV) , 5 MB,368,Gold
+291,Consumer Reviews of Amazon Products,Datafiniti , Updated 3 years ago,7.6, 3 Files (CSV) , 17 MB,365,Silver
+292,Boston House Prices,Manimala , Updated 4 years ago,8.2, 1 File (CSV) , 13 kB,365,Gold
+293,Pfizer Vaccine Tweets,Gabriel Preda , Updated a month ago,10.0, 1 File (CSV) , 2 MB,365,Gold
+294,Data Science for Good: Center for Policing Equity,Center for Policing Equity , Updated 3 years ago,7.1," 266 Files (CSV, other) ", 99 MB,364,Gold
+295,"18,393 Pitchfork Reviews",Nolan Conaway , Updated 5 years ago,7.1, 1 File (SQLITE) , 35 MB,364,Gold
+296,Chennai Water Management,SRK , Updated a year ago,10.0, 2 Files (CSV) , 84 kB,364,Gold
+297,US Public Food Assistance,JohnM , Updated a year ago,9.1," 80 Files (other, CSV) ", 720 kB,364,Gold
+298,Indian Premier League 2008-2019,Navaneesh Kumar , Updated 3 years ago,8.8, 2 Files (CSV) , 1 MB,363,Gold
+299,GTZAN Dataset - Music Genre Classification,Andrada Olteanu , Updated 2 years ago,8.8," 2001 Files (other, CSV) ", 1 GB,362,Gold
+300,All Space Missions from 1957,Agirlcoding , Updated a year ago,8.5, 1 File (CSV) , 103 kB,361,Gold
+301,MusicNet Dataset,Sparsh Gupta , Updated a year ago,10.0," 992 Files (other, CSV) ", 23 GB,363,Gold
+302,Respiratory Sound Database,Marsh , Updated 3 years ago,6.5," 1844 Files (other, CSV) ", 4 GB,360,Gold
+303,Turkey Covid 19 Vaccination Data,Omer Colakoglu , Updated 3 months ago,4.1, 1 File (other) , 13 kB,361,Gold
+304,GitHub Repos,Github , Updated 3 years ago,6.5, BigQuery, BigQuery,359,Gold
+305,Titanic-Dataset (train.csv),Syed Hamza Ali , Updated 4 years ago,4.1, 1 File (CSV) , 23 kB,360,Bronze
+306,US Election 2020 Tweets,Manch Hui , Updated a year ago,10.0, 2 Files (CSV) , 370 MB,359,Gold
+307,COVID-19 Healthy Diet Dataset,Maria Ren , Updated a year ago,10.0, 5 Files (CSV) , 84 kB,359,Silver
+308,Natural Images,Prasun Roy , Updated 3 years ago,7.5, 6899 Files (other) , 359 MB,356,Gold
+309,Craft Beers Dataset,Jean-NicholasHould , Updated 5 years ago,8.8, 2 Files (CSV) , 55 kB,355,Gold
+310,Linear Regression,Vahe Andonians , Updated 5 years ago,8.2, 2 Files (CSV) , 8 kB,355,Gold
+311,Spotify Song Attributes,GeorgeMcIntire , Updated 4 years ago,7.4, 1 File (CSV) , 101 kB,350,Gold
+312,Women Entrepreneurship and Labor Force,babyoda , Updated a year ago,10.0, 1 File (CSV) , 1 kB,349,Gold
+313,RAPIDS,Chris Deotte , Updated 6 months ago,7.5, 10 GB, 10 GB,349,Gold
+314,RSNA Bone Age,K Scott Mader , Updated 4 years ago,7.1," 12813 Files (other, CSV) ", 10 GB,348,Gold
+315,Credit Card Dataset for Clustering,Arjun Bhasin , Updated 4 years ago,5.9, 1 File (CSV) , 348 kB,346,Gold
+316,Google Analytics Sample,Google BigQuery , Updated 2 years ago,6.5, BigQuery, BigQuery,347,Gold
+317,"Africa Economic, Banking and Systemic Crisis Data",Chiri , Updated 2 years ago,10.0, 1 File (CSV) , 14 kB,345,Silver
+318,NYC Property Sales,City of New York , Updated 4 years ago,8.2, 1 File (CSV) , 2 MB,344,Silver
+319,Restaurant Business Rankings 2020,Michal Bogacz , Updated a year ago,10.0, 3 Files (CSV) , 16 kB,342,Gold
+320,World Happiness Report up to 2020,Mathurin Aché , Updated 2 years ago,9.4, 6 Files (CSV) , 55 kB,342,Gold
+321,"AMEX, NYSE, NASDAQ stock histories",Jiun Yen , Updated a year ago,7.1," 8389 Files (CSV, other) ", 628 MB,341,Silver
+322,Gas Prices in Brazil,Matheus Eduardo Freitag , Updated 2 years ago,10.0, 1 File (other) , 3 MB,341,Silver
+323,Airline Passenger Satisfaction,TJ Klein , Updated 2 years ago,9.4, 2 Files (CSV) , 3 MB,343,Silver
+324,H-1B Visa Petitions 2011-2016,Sharan Naribole , Updated 5 years ago,8.5, 1 File (CSV) , 99 MB,340,Gold
+325,The Human Freedom Index,Guillermina Sutter Schneider , Updated 5 days ago,9.7, 3 Files (CSV) , 1 MB,340,Silver
+326,1 million Sudoku games,Kyubyong Park , Updated 5 years ago,8.8, 1 File (CSV) , 71 MB,339,Gold
+327,Air Quality Data in India (2015 - 2020),Vopani , Updated a year ago,10.0, 5 Files (CSV) , 76 MB,339,Gold
+328,Spotify's Worldwide Daily Song Ranking,Eduardo , Updated 4 years ago,7.4, 1 File (CSV) , 45 MB,339,Silver
+329,New York Times Comments,Aashita Kesarwani , Updated 4 years ago,7.1, 18 Files (CSV) , 503 MB,339,Gold
+330,Armenian Online Job Postings,Udacity , Updated 4 years ago,5.9," 3 Files (CSV, other) ", 15 MB,337,Silver
+331,COVID-19 data from John Hopkins University,Anthony Goldbloom , Updated 3 hours ago,8.8, 10 Files (CSV) , 8 MB,337,Gold
+332,fer2013,Rohit Verma , Updated 4 years ago,2.9, 1 File (CSV) , 101 MB,336,Silver
+333,IMDB data from 2006 to 2016,PromptCloud , Updated 5 years ago,10.0, 1 File (CSV) , 137 kB,336,Silver
+334,US Minimum Wage by State from 1968 to 2020,Lislejoem , Updated a year ago,10.0, 1 File (CSV) , 27 kB,336,Silver
+335,US Police Shootings,Ahsen Nazir , Updated a year ago,9.7, 1 File (CSV) , 129 kB,334,Gold
+336,Internet news data with readers engagement,Szymon Janowski , Updated a year ago,9.4, 1 File (CSV) , 3 MB,334,Gold
+337,Steam Store Games (Clean dataset),Nik Davis , Updated 3 years ago,9.1, 6 Files (CSV) , 37 MB,333,Silver
+338,Breast Cancer Proteomes,kajot , Updated 2 years ago,6.5, 3 Files (CSV) , 6 MB,333,Gold
+339,The Holy Quran,Zeeshan-ul-hassan Usmani , Updated 4 years ago,7.6," 23 Files (CSV, other) ", 10 MB,331,Gold
+340,Air Pollution in Seoul,bappe , Updated 2 years ago,10.0, 4 Files (CSV) , 21 MB,331,Gold
+341,LEGO Database,Rachael Tatman , Updated 4 years ago,8.8," 9 Files (CSV, other) ", 3 MB,329,Gold
+342,Barcelona data sets,Xavier , Updated 2 years ago,10.0, 17 Files (CSV) , 1 MB,329,Gold
+343,COVID-19's Impact on Airport Traffic,Terence Shin , Updated a year ago,10.0, 1 File (CSV) , 128 kB,329,Gold
+344,"TV shows on Netflix, Prime Video, Hulu and Disney+",Ruchi Bhatia , Updated 5 months ago,10.0, 1 File (CSV) , 103 kB,327,Gold
+345,Zoo Animal Classification,UCI Machine Learning , Updated 5 years ago,8.2, 2 Files (CSV) , 2 kB,323,Silver
+346,Twitter User Gender Classification,Figure Eight , Updated 5 years ago,7.1, 1 File (CSV) , 3 MB,322,Gold
+347,COVID-19 Corona Virus India Dataset,Devakumar K. P. , Updated a year ago,10.0, 3 MB, 3 MB,322,Gold
+348,NBA shot logs,DanB , Updated 5 years ago,5.9, 1 File (CSV) , 3 MB,320,Gold
+349,Stanford Car Dataset by classes folder,Jesús Utrera , Updated 4 years ago,7.6," 16188 Files (other, CSV) ", 2 GB,320,Gold
+350,London bike sharing dataset,Hristo Mavrodiev , Updated 2 years ago,10.0, 1 File (CSV) , 169 kB,320,Silver
+351,Death in the United States,Centers for Disease Control and Prevention , Updated 4 years ago,7.6," 22 Files (CSV, JSON) ", 766 MB,319,Silver
+352,Indian Liver Patient Records,UCI Machine Learning , Updated 4 years ago,8.8, 1 File (CSV) , 8 kB,318,Gold
+353,Confused student EEG brainwave data,Haohan Wang , Updated 4 years ago,7.9," 12 Files (other, CSV) ", 114 MB,318,Gold
+354,EMNIST (Extended MNIST),Chris Crawford , Updated 4 years ago,7.6," 42 Files (CSV, other) ", 1 GB,318,Silver
+355,ResNet-50,Keras , Updated 4 years ago,8.8," 3 Files (other, JSON) ", 183 MB,317,Gold
+356,India Air Quality Data,Shruti Bhargava , Updated 4 years ago,8.5, 1 File (CSV) , 5 MB,316,Gold
+357,Data Without Drift,Chris Deotte , Updated 2 years ago,4.7, 2 Files (CSV) , 58 MB,315,Gold
+358,Fish market,Aung Pyae , Updated 3 years ago,10.0, 1 File (CSV) , 2 kB,313,Silver
+359,House price prediction,Shree , Updated 3 years ago,6.5," 3 Files (other, CSV) ", 442 kB,314,Silver
+360,Data Scientist Job Market in the U.S.,Shanshan Lu , Updated 3 years ago,7.9, 16 Files (CSV) , 17 MB,310,Silver
+361,Tagged Anime Illustrations,Myles O'Neill , Updated 3 years ago,6.3," 351625 Files (other, JSON, CSV) ", 38 GB,309,Gold
+362,US Mass Shootings,Zeeshan-ul-hassan Usmani , Updated 8 months ago,7.9, 6 Files (CSV) , 270 kB,310,Gold
+363,Wikibooks Dataset,Dhruvil Dave , Updated 2 months ago,10.0, 1 File (SQLITE) , 2 GB,310,Gold
+364,Women's Shoe Prices,Datafiniti , Updated 3 years ago,8.5, 3 Files (CSV) , 14 MB,307,Silver
+365,Trending YouTube Video Statistics and Comments,Mitchell J , Updated 4 years ago,7.6," 6 Files (CSV, JSON) ", 59 MB,307,Silver
+366,Predict FIFA 2018 Man of the Match,Mathan , Updated 3 years ago,10.0, 1 File (CSV) , 4 kB,308,Gold
+367,US Baby Names,Kaggle , Updated 4 years ago,5.9," 6 Files (SQLITE, CSV, other) ", 182 MB,306,Gold
+368,Daily Temperature of Major Cities,SRK , Updated 2 years ago,10.0, 1 File (CSV) , 14 MB,306,Gold
+369,Handwritten math symbols dataset,Xai Nano , Updated 5 years ago,7.5, 1 File (other) , 359 MB,305,Silver
+370,World Bank: Education Data,World Bank , Updated 3 years ago,6.5, BigQuery, BigQuery,304,Silver
+371,Top Spotify songs from 2010-2019 - BY YEAR,Leonardo Henrique , Updated 2 years ago,10.0, 1 File (CSV) , 20 kB,305,Silver
+372,Energy consumption of the Netherlands,Luca Basanisi , Updated 2 years ago,9.4, 150 Files (CSV) , 146 MB,304,Silver
+373,Fashion Product Images Dataset,Param Aggarwal , Updated 3 years ago,5.9," 88889 Files (other, JSON, CSV) ", 25 GB,303,Gold
+374,US Census Demographic Data,MuonNeutrino , Updated 3 years ago,8.5, 4 Files (CSV) , 11 MB,302,Silver
+375,Flickr Image dataset,Hsankesara , Updated 4 years ago,7.1," 31784 Files (other, CSV) ", 9 GB,302,Gold
+376,Google Job Skills,Niyamat Ullah , Updated 4 years ago,10.0, 1 File (CSV) , 417 kB,300,Gold
+377,YouTube Trending Video Dataset (updated daily),Rishav Sharma , Updated 20 hours ago,10.0," 22 Files (CSV, JSON) ", 692 MB,298,Gold
+378,Quality Prediction in a Mining Process,EduardoMagalhãesOliveira , Updated 4 years ago,10.0, 1 File (CSV) , 53 MB,297,Gold
+379,Seattle Airbnb Open Data,Airbnb , Updated 4 years ago,7.1, 3 Files (CSV) , 20 MB,295,Gold
+380,German Credit Risk,UCI Machine Learning , Updated 5 years ago,8.2, 1 File (CSV) , 11 kB,296,Gold
+381,RAVDESS Emotional speech audio,Steven R. Livingstone , Updated 3 years ago,8.8, 450 MB, 450 MB,295,Silver
+382,Reddit - Data is Beautiful,Raphael Fontes , Updated a year ago,10.0, 1 File (CSV) , 13 MB,295,Gold
+383,National Health and Nutrition Examination Survey,Centers for Disease Control and Prevention , Updated 5 years ago,7.4, 6 Files (CSV) , 7 MB,294,Silver
+384,Anime Recommendation Database 2020,Hernan Valdivieso , Updated 6 months ago,10.0," 41 Files (CSV, other) ", 693 MB,293,Gold
+385,Steam Video Games,Tamber , Updated 5 years ago,8.5, 1 File (CSV) , 2 MB,291,Silver
+386,YouTube Faces With Facial Keypoints,David Beniaguev , Updated 3 months ago,9.4," 2195 Files (other, CSV) ", 17 GB,291,Gold
+387,Garbage Classification,cchangcs , Updated 3 years ago,8.1, 2532 Files (other) , 86 MB,290,Silver
+388,NFL scores and betting data,spreadspoke , Updated 21 days ago,10.0," 4 Files (CSV, other) ", 242 kB,292,Silver
+389,Weather Conditions in World War Two,Shane Smith , Updated 4 years ago,10.0, 2 Files (CSV) , 2 MB,290,Silver
+390,Insightful & Vast USA Statistics,Golden Oak Research Group , Updated 4 years ago,8.5," 3 Files (CSV, other) ", 11 MB,290,Silver
+391,Common Password List ( rockyou.txt ),William J. Burns , Updated 3 years ago,7.5, 1 File (other) , 53 MB,290,Bronze
+392,Heart Disease Dataset,David Lapp , Updated 3 years ago,8.8, 1 File (CSV) , 6 kB,286,Silver
+393,Crimes in Chicago,Currie32 , Updated 5 years ago,7.4, 4 Files (CSV) , 490 MB,286,Silver
+394,League of Legends,Chuck Ephron , Updated 4 years ago,7.6, 8 Files (CSV) , 32 MB,284,Silver
+395,IMDB 5000 Movie Dataset,Yueming , Updated 4 years ago,4.4, 1 File (CSV) , 568 kB,284,Silver
+396,Book-Crossing: User review ratings,Ruchi Bhatia , Updated a year ago,10.0, 4 Files (CSV) , 80 MB,284,Gold
+397,Bank Marketing Dataset,Janio Martinez Bachmann , Updated 4 years ago,8.2, 1 File (CSV) , 146 kB,282,Gold
+398,Hillary Clinton's Emails,Kaggle , Updated 2 years ago,7.1," 6 Files (SQLITE, CSV, other) ", 13 MB,282,Gold
+399,Loan Prediction Problem Dataset,Debdatta Chatterjee , Updated 3 years ago,1.8, 2 Files (CSV) , 13 kB,281,Gold
+400,USA Name Data,Data.gov , Updated 3 years ago,7.1, BigQuery, BigQuery,280,Silver
+401,StartUp Investments (Crunchbase),Andy_M , Updated 2 years ago,8.8, 1 File (CSV) , 3 MB,277,Gold
+402,Forecasts for Product Demand,FelixZhao , Updated 4 years ago,8.8, 1 File (CSV) , 5 MB,274,Silver
+403,May 2015 Reddit Comments,Kaggle , Updated 3 years ago,6.5, 1 File (SQLITE) , 21 GB,273,Silver
+404,COVID-19 in USA,SRK , Updated a year ago,9.7, 3 Files (CSV) , 10 MB,273,Gold
+405,60k Stack Overflow Questions with Quality Rating,Moore , Updated a year ago,10.0, 22 MB, 22 MB,273,Gold
+406,Medicare Data,Centers for Medicare & Medicaid Services , Updated 3 years ago,6.8, BigQuery, BigQuery,272,Silver
+407,Historical Air Quality,US Environmental Protection Agency , Updated 3 years ago,7.1, BigQuery, BigQuery,272,Silver
+408,London Crime Data,London Data Store , Updated 4 years ago,6.8, BigQuery, BigQuery,272,Silver
+409,Car Price Prediction Multiple Linear Regression,Manish Kumar , Updated 2 years ago,7.1," 2 Files (CSV, other) ", 19 kB,274,Gold
+410,Waste Classification data,Sashaank Sekar , Updated 3 years ago,8.8, 25076 Files (other) , 448 MB,271,Silver
+411,Health care: Heart attack possibility,Naresh Bhat , Updated 2 years ago,7.1, 1 File (CSV) , 3 kB,272,Gold
+412,US Cars Dataset,Doaa Alsenani , Updated 2 years ago,10.0, 1 File (CSV) , 67 kB,270,Silver
+413,Brewer's Friend Beer Recipes,jtrofe , Updated 4 years ago,7.4, 2 Files (CSV) , 4 MB,267,Silver
+414,Stock Market Dataset,Oleh Onyshchak , Updated 2 years ago,8.2, 8050 Files (CSV) , 548 MB,268,Silver
+415,Stock Market India,Harsh Kumar , Updated a year ago,8.1," 162 Files (CSV, other) ", 2 GB,267,Silver
+416,Google Play Store Apps,Gautham Prakash , Updated 7 months ago,10.0, 1 File (CSV) , 217 MB,267,Silver
+417,Glass Classification,UCI Machine Learning , Updated 5 years ago,8.2, 1 File (CSV) , 4 kB,266,Gold
+418,Rainfall in India,Rajanand Ilangovan , Updated 4 years ago,8.2, 2 Files (CSV) , 192 kB,266,Silver
+419,brazilian_houses_to_rent,Rubens Junior , Updated 2 years ago,10.0, 2 Files (CSV) , 289 kB,266,Gold
+420,Fetal Health Classification,Larxel , Updated a year ago,10.0, 1 File (CSV) , 47 kB,266,Gold
+421,Super Heroes Dataset,ClaudioDavi , Updated 4 years ago,8.5, 2 Files (CSV) , 32 kB,264,Gold
+422,US Consumer Finance Complaints,Kaggle , Updated 2 years ago,5.9," 2 Files (SQLITE, CSV) ", 89 MB,264,Gold
+423,Marketing Analytics,Jack Daoud , Updated a year ago,10.0, 1 File (CSV) , 62 kB,265,Gold
+424,NBA games data,Nathan Lauga , Updated 2 months ago,8.8, 5 Files (CSV) , 21 MB,263,Silver
+425,January Flight Delay Prediction,Divyansh Agrawal , Updated 2 years ago,10.0, 2 Files (CSV) , 24 MB,262,Gold
+426,Big Data Certification KR,KIM TAE HEON , Updated a month ago,7.1," 5 Files (CSV, other, JSON) ", 16 kB,265,Gold
+427,Handwriting Recognition,landlord , Updated a year ago,9.4," 413704 Files (other, CSV) ", 1 GB,261,Gold
+428,Global Commodity Trade Statistics,United Nations , Updated 4 years ago,8.8, 1 File (CSV) , 126 MB,260,Silver
+429,Skin Cancer: Malignant vs. Benign,Claudio Fanconi , Updated 3 years ago,7.5, 3297 Files (other) , 340 MB,260,Silver
+430,Tesla stock data from 2010 to 2020,Timo Bozsolik , Updated 2 years ago,10.0, 1 File (CSV) , 47 kB,260,Silver
+431,Binance Full History,Jorijn Jacko Smit , Updated 2 months ago,9.4, 1000 Files (other) , 20 GB,259,Silver
+432,Top Spotify Tracks of 2018,Nadin Tamer , Updated 3 years ago,9.4, 1 File (CSV) , 7 kB,258,Silver
+433,MNIST as .jpg,Stuart Colianni , Updated 5 years ago,7.5, 70950 Files (other) , 72 MB,259,Silver
+434,International Energy Statistics,United Nations , Updated 4 years ago,7.1," 2 Files (CSV, other) ", 8 MB,258,Silver
+435,Airlines Delay,Giovanni Gonzalez , Updated 2 years ago,6.5," 4 Files (CSV, other) ", 70 MB,258,Silver
+436,IPL _Data_Set,Ramji , Updated a year ago,9.7," 6 Files (CSV, other) ", 1 MB,258,Gold
+437,Automobile Dataset,Ramakrishnan Srinivasan , Updated 5 years ago,7.4, 1 File (CSV) , 5 kB,257,Silver
+438,Real estate price prediction,Bruce , Updated 3 years ago,4.7, 1 File (CSV) , 7 kB,256,Silver
+439,The History of Baseball,SeanLahman , Updated 2 years ago,7.6," 29 Files (CSV, SQLITE, other) ", 21 MB,254,Gold
+440,Real and Fake Face Detection,CIPLAB @ Yonsei University , Updated 3 years ago,5.6, 2041 Files (other) , 452 MB,253,Gold
+441,V2 Plant Seedlings Dataset,Marsh , Updated 3 years ago,7.5, 5539 Files (other) , 3 GB,253,Silver
+442,Gufhtugu Publications Dataset Challenge,Zeeshan-ul-hassan Usmani , Updated a year ago,10.0, 2 Files (CSV) , 977 kB,252,Gold
+443,DJIA 30 Stock Time Series,szrlee , Updated 4 years ago,7.1, 33 Files (CSV) , 3 MB,251,Gold
+444,Udemy Courses,Larxel , Updated 2 years ago,10.0, 1 File (CSV) , 205 kB,250,Gold
+445,Border Crossing Entry Data,Akhil , Updated 2 years ago,10.0, 1 File (CSV) , 4 MB,251,Silver
+446,Pokémon for Data Mining and Machine Learning,alopez247 , Updated 5 years ago,8.5," 2 Files (other, CSV) ", 732 kB,250,Silver
+447,Genetic Variant Classifications,Kevin Arvai , Updated 2 years ago,8.8, 1 File (CSV) , 4 MB,249,Silver
+448,Student Grade Prediction,DipamVasani , Updated 3 years ago,7.1, 1 File (CSV) , 7 kB,247,Silver
+449,Agriculture Crop Production In India,SrinivasRao , Updated 4 years ago,8.5, 5 Files (CSV) , 23 kB,246,Silver
+450,CalCOFI,Sohier Dane , Updated 4 years ago,8.5, 2 Files (CSV) , 53 MB,245,Silver
+451,Powerlifting Database,OpenPowerlifting , Updated 3 years ago,8.5, 1 File (CSV) , 57 MB,245,Silver
+452,Art Images: Drawing/Painting/Sculptures/Engravings,Danil , Updated 4 years ago,7.5, 12784 Files (other) , 611 MB,245,Gold
+453,Dogs vs Cats,Onofrio_BIScience , Updated 4 years ago,4.4, 37500 Files (other) , 856 MB,244,Silver
+454,Amazon Musical Instruments Reviews,Eswar Chand , Updated 2 years ago,10.0," 2 Files (JSON, CSV) ", 5 MB,245,Gold
+455,Finding and Measuring Lungs in CT Data,K Scott Mader , Updated 5 years ago,5.9," 4 Files (other, CSV) ", 1 GB,242,Silver
+456,Loan Data,Zhijin , Updated 5 years ago,8.2, 1 File (CSV) , 6 kB,240,Silver
+457,Solar Radiation Prediction,Andrey , Updated 5 years ago,8.2, 1 File (CSV) , 523 kB,240,Silver
+458,CAPTCHA Images,Fournierp , Updated 3 years ago,8.8, 1070 Files (other) , 18 MB,241,Gold
+459,CAPTCHA Images,Fournierp , Updated 3 years ago,8.8, 1070 Files (other) , 18 MB,241,Gold
+460,US Traffic Fatality Records,Department of Transportation , Updated 3 years ago,7.1, BigQuery, BigQuery,238,Silver
+461,Mobile phone activity in a city,Marco De Nadai , Updated 2 years ago,7.1," 17 Files (CSV, other) ", 254 MB,238,Silver
+462,Car License Plate Detection,Larxel , Updated 2 years ago,8.8, 864 Files (other) , 213 MB,239,Silver
+463,Heart Attack Prediction,Nikhil Anand , Updated 4 years ago,7.1, 1 File (CSV) , 3 kB,237,Silver
+464,Lower Back Pain Symptoms Dataset,sammy123 , Updated 5 years ago,7.6, 1 File (CSV) , 20 kB,237,Gold
+465,Premier League,Zaeem Nalla , Updated 3 years ago,7.6, 2 Files (CSV) , 42 kB,237,Silver
+466,Gene expression dataset (Golub et al.),Chris Crawford , Updated 4 years ago,8.2, 3 Files (CSV) , 1 MB,236,Silver
+467,Logistic regression To predict heart disease,Dileep , Updated 3 years ago,7.1, 1 File (CSV) , 60 kB,235,Silver
+468,Alzheimer's Dataset ( 4 class of Images),Sarvesh Dubey , Updated 2 years ago,7.5, 6400 Files (other) , 36 MB,235,Gold
+469,Bank Marketing,Henrique Yamahata , Updated 4 years ago,6.5," 2 Files (CSV, other) ", 403 kB,235,Silver
+470,NBA Players,Justinas Cirtautas , Updated 5 months ago,10.0, 1 File (CSV) , 529 kB,235,Silver
+471,LFW - People (Face Recognition),Atul Anand {Jha} , Updated 2 years ago,10.0, 4 Files (other) , 244 MB,235,Gold
+472,Fruit Images for Object Detection,MuhammedBuyukkinaci , Updated 4 years ago,7.5, 600 Files (other) , 30 MB,234,Silver
+473,The BeeImage Dataset: Annotated Honey Bee Images,Jenny Yang , Updated 3 years ago,8.2," 5173 Files (other, CSV) ", 53 MB,233,Silver
+474,Random Sample of NIH Chest X-ray Dataset,National Institutes of Health Chest X-Ray Dataset , Updated 4 years ago,7.6," 5608 Files (other, CSV) ", 5 GB,233,Silver
+475,Complete Historical Cryptocurrency Financial Data,pmohun , Updated 2 years ago,10.0, 1 File (CSV) , 711 kB,232,Silver
+476,Mental Health in the Tech Industry,Anthony Inthavong , Updated a year ago,9.4, 1 File (SQLITE) , 2 MB,231,Silver
+477,MLB Pitch Data 2015-2018,Paul Schale , Updated 2 years ago,7.9, 8 Files (CSV) , 388 MB,231,Silver
+478,COVID-19 in Italy,SRK , Updated a year ago,10.0, 2 Files (CSV) , 452 kB,231,Gold
+479,Foreign Exchange Rates 2000-2019,Bruno Luiz Ferreira , Updated 2 years ago,10.0," 2 Files (other, CSV) ", 1 MB,230,Silver
+480,Suicides in India,Rajanand Ilangovan , Updated 4 years ago,10.0, 1 File (CSV) , 1 MB,229,Silver
+481,HR Analytics Case Study,Vijay Choudhary , Updated 3 years ago,7.4," 6 Files (CSV, other) ", 11 MB,228,Silver
+482,Question Pairs Dataset,Quora , Updated 5 years ago,8.8, 1 File (CSV) , 22 MB,228,Gold
+483,Real Estate DataSet,Arslan Ali , Updated a year ago,10.0, 1 File (CSV) , 12 kB,228,Silver
+484,LEGO Minifigures,Yaroslav Isaienkov , Updated 6 months ago,9.4," 487 Files (other, CSV) ", 29 MB,228,Gold
+485,Epicurious - Recipes with Rating and Nutrition,HugoDarwood , Updated 5 years ago,7.1," 4 Files (CSV, JSON, other) ", 12 MB,227,Silver
+486,Military Spending of Countries (1960-2019),Nitin Singh , Updated 2 years ago,10.0, 1 File (CSV) , 56 kB,228,Silver
+487,Board Games Dataset,Gabriele Baldassarre , Updated 5 years ago,8.2, 1 File (SQLITE) , 49 MB,226,Silver
+488,Superbowl History 1967 - 2020,Timo Bozsolik , Updated 2 years ago,10.0, 1 File (CSV) , 2 kB,226,Silver
+489,Amazon Alexa Reviews,Manu Siddhartha , Updated 3 years ago,8.2, 1 File (other) , 168 kB,225,Silver
+490,Basketball Dataset,Wyatt Walsh , Updated 4 months ago,9.4," 10045 Files (SQLITE, other) ", 366 MB,226,Gold
+491,Pokemon Generation One,HarshitDwivedi , Updated 3 years ago,6.3, 10693 Files (other) , 2 GB,224,Silver
+492,Hourly energy demand generation and weather,Nicholas Jhana , Updated 2 years ago,10.0, 2 Files (CSV) , 4 MB,224,Silver
+493,Fruit Recognition,Chris Gorgolewski , Updated 2 years ago,8.8, 70549 Files (other) , 9 GB,224,Silver
+494,Brain Tumor Classification (MRI),Sartaj , Updated 2 years ago,8.1, 91 MB, 91 MB,226,Silver
+495,Arabic Handwritten Characters Dataset,Mohamed Loey , Updated 2 years ago,7.6," 16809 Files (CSV, other) ", 25 MB,224,Silver
+496,Speech Accent Archive,Rachael Tatman , Updated 4 years ago,7.6," 2140 Files (other, CSV) ", 907 MB,222,Silver
+497,Spanish Rail Tickets Pricing - Renfe,The Gurus , Updated a year ago,8.2, 1 File (CSV) , 584 MB,222,Silver
+498,Forest Cover Type Dataset,UCI Machine Learning , Updated 5 years ago,5.9, 1 File (CSV) , 12 MB,222,Silver
+499,Sarcasm on Reddit,Dan Ofer , Updated 4 years ago,10.0," 4 Files (CSV, other) ", 227 MB,221,Gold
+500,English Word Frequency,Rachael Tatman , Updated 4 years ago,8.2, 1 File (CSV) , 2 MB,221,Gold
+501,US Stocks Fundamentals (XBRL),usfundamentals , Updated 2 years ago,7.6," 3 Files (CSV, JSON) ", 33 MB,220,Silver
+502,NYC Parking Tickets,City of New York , Updated 2 years ago,8.2, 4 Files (CSV) , 2 GB,220,Bronze
+503,200+ Financial Indicators of US stocks (2014-2018),Nicolas Carbone , Updated 2 years ago,9.7, 5 Files (CSV) , 16 MB,220,Silver
+504,Pokemon Images Dataset,kvpratama , Updated a year ago,8.8, 1638 Files (other) , 74 MB,220,Gold
+505,Health Analytics,Rajanand Ilangovan , Updated 4 years ago,7.6, 54 Files (CSV) , 1 MB,219,Silver
+506,Household Electric Power Consumption,UCI Machine Learning , Updated 5 years ago,7.5, 1 File (other) , 20 MB,219,Silver
+507,Common Voice,Mozilla , Updated 4 years ago,7.6," 380377 Files (other, CSV) ", 13 GB,220,Silver
+508,Los Angeles Parking Citations,City of Los Angeles , Updated 6 months ago,7.1," 3 Files (CSV, other, JSON) ", 413 MB,219,Silver
+509,Face expression recognition dataset,Jonathan Oheix , Updated 3 years ago,1.9, 35887 Files (other) , 126 MB,218,Silver
+510,Pizza Restaurants and the Pizza They Sell,Datafiniti , Updated 3 years ago,7.6, 2 Files (CSV) , 886 kB,218,Silver
+511,Sentiment Lexicons for 81 Languages,Rachael Tatman , Updated 4 years ago,7.6," 167 Files (other, CSV) ", 2 MB,218,Silver
+512,Complete FIFA 2017 Player dataset (Global),Soumitra Agarwal , Updated 5 years ago,7.6," 613 Files (CSV, other) ", 10 MB,218,Gold
+513,Google Trends Data,Timo Bozsolik , Updated 2 years ago,9.1, 1 MB, 1 MB,218,Silver
+514,AV : Healthcare Analytics II,Neha Prabhavalkar , Updated a year ago,10.0, 4 Files (CSV) , 7 MB,219,Gold
+515,Weather in Szeged 2006-2016,Norbert Budincsevity , Updated 5 years ago,8.2, 1 File (CSV) , 2 MB,217,Silver
+516,GloVe: Global Vectors for Word Representation,Rachael Tatman , Updated 4 years ago,8.8, 3 Files (other) , 480 MB,216,Gold
+517,Health Nutrition and Population Statistics,World Bank , Updated 5 years ago,5.9, 1 File (CSV) , 15 MB,216,Silver
+518,NIPS Papers,Ben Hamner , Updated 4 years ago,8.2," 4 Files (SQLITE, CSV) ", 148 MB,215,Gold
+519,EfficientNet PyTorch,Henrique Mendonça , Updated 2 years ago,7.5, 33 Files (other) , 722 MB,215,Gold
+520,Traffic Signs Preprocessed,Valentyn Sichkar , Updated 2 years ago,10.0," 19 Files (other, CSV) ", 4 GB,214,Silver
+521,Honey Production in the USA (1998-2012),Jessica Li , Updated 4 years ago,8.5, 4 Files (CSV) , 25 kB,213,Silver
+522,Financial Tweets,David Wallach , Updated 3 years ago,8.2, 2 Files (CSV) , 2 MB,213,Silver
+523,Safety Helmet Detection,Larxel , Updated a year ago,8.8, 1 GB, 1 GB,213,Gold
+524,Face Mask Detection ~12K Images Dataset,Ashish Jangra , Updated 2 years ago,7.5, 11792 Files (other) , 346 MB,214,Gold
+525,US Household Income Statistics,Golden Oak Research Group , Updated 4 years ago,8.2," 3 Files (CSV, other) ", 2 MB,212,Silver
+526,Marketing Funnel by Olist,Olist , Updated 3 years ago,10.0, 2 Files (CSV) , 285 kB,212,Silver
+527,Python Questions from Stack Overflow,Stack Overflow , Updated 2 years ago,7.1, 3 Files (CSV) , 585 MB,212,Gold
+528,Tweets about the Top Companies from 2015 to 2020,Ömer Metin , Updated a year ago,10.0, 3 Files (CSV) , 291 MB,211,Silver
+529,Video Games Sales Dataset,SID_TWR , Updated 3 years ago,8.2, 3 Files (CSV) , 519 kB,210,Silver
+530,Audio Cats and Dogs,marc moreaux , Updated 4 years ago,7.6," 279 Files (other, CSV) ", 102 MB,210,Silver
+531,"Stack Overflow Developer Survey, 2017",Stack Overflow , Updated 5 years ago,8.5, 2 Files (CSV) , 10 MB,209,Gold
+532,2020 US General Election Turnout Rates,Moore , Updated 9 months ago,10.0, 1 File (CSV) , 4 kB,209,Gold
+533,Delhi Weather Data,MahirKukreja , Updated 5 years ago,6.2, 1 File (CSV) , 1 MB,208,Silver
+534,Face Images with Marked Landmark Points,Omri Goldstein , Updated 4 years ago,5.3," 2 Files (other, CSV) ", 111 MB,208,Silver
+535,LISA Traffic Light Dataset,Morten Bornø Jensen , Updated 4 years ago,7.1," 44123 Files (other, CSV) ", 5 GB,209,Silver
+536,COVID-19 chest xray,bachir , Updated 2 years ago,9.4," 359 Files (other, JSON, CSV) ", 253 MB,206,Silver
+537,MotionSense Dataset : Smartphone Sensor Data - HAR,Mohammad Malekzadeh , Updated 4 years ago,7.6, 361 Files (CSV) , 76 MB,206,Silver
+538,AV : Healthcare Analytics,shivan kumar , Updated a year ago,9.4," 10 Files (CSV, other) ", 2 MB,207,Gold
+539,Anime Face Dataset,Spencer Churchill , Updated 2 years ago,9.4, 63565 Files (other) , 414 MB,206,Gold
+540,"AGE, GENDER AND ETHNICITY (FACE DATA) CSV",Nipun Arora , Updated a year ago,10.0, 1 File (CSV) , 66 MB,205,Gold
+541,Numenta Anomaly Benchmark (NAB),BoltzmannBrain , Updated 5 years ago,7.6," 59 Files (CSV, other) ", 2 MB,204,Gold
+542,Spotify Tracks DB,Zaheen Hamidani , Updated 2 years ago,5.9, 1 File (CSV) , 16 MB,206,Silver
+543,Movie Industry,Daniel Grijalva , Updated 5 months ago,10.0, 1 File (CSV) , 434 kB,206,Bronze
+544,RSNA MICCAI PNG,Jonathan Besomi , Updated 6 months ago,5.0, 290923 Files (other) , 5 GB,204,Gold
+545,Things on Reddit,Aleksey Bilogur , Updated 4 years ago,5.9, 5074 Files (CSV) , 17 MB,203,Silver
+546,US Dept of Education: College Scorecard,Kaggle , Updated 4 years ago,7.6," 25 Files (CSV, SQLITE, other) ", 590 MB,202,Silver
+547,Vehicle Number Plate Detection,DataTurks , Updated 3 years ago,7.5, 1 File (JSON) , 20 kB,202,Silver
+548,Structural Protein Sequences,SHAHIR , Updated 4 years ago,8.5, 2 Files (CSV) , 29 MB,202,Gold
+549,Fires from Space: Australia,Carlos Paradis , Updated 2 years ago,10.0, 4 Files (CSV) , 21 MB,202,Silver
+550,"Olympic Sports and Medals, 1896-2014",The Guardian , Updated 5 years ago,7.1, 3 Files (CSV) , 494 kB,200,Bronze
+551,CS:GO Competitive Matchmaking Data,KP , Updated 3 years ago,7.9," 28 Files (CSV, other) ", 631 MB,199,Silver
+552,College Basketball Dataset,Andrew Sundberg , Updated 10 months ago,10.0, 10 Files (CSV) , 242 kB,199,Bronze
+553,Financial Distress Prediction,Ebrahimi , Updated 4 years ago,8.2, 1 File (CSV) , 835 kB,200,Silver
+554,Ultimate UFC Dataset,mdabbert , Updated 3 months ago,9.1, 4 Files (CSV) , 603 kB,199,Silver
+555,Fast Food Restaurants Across America,Datafiniti , Updated 3 years ago,8.2, 3 Files (CSV) , 4 MB,197,Silver
+556,Auto-mpg dataset,UCI Machine Learning , Updated 5 years ago,8.5, 1 File (CSV) , 6 kB,197,Silver
+557,Biomechanical features of orthopedic patients,UCI Machine Learning , Updated 4 years ago,8.2, 2 Files (CSV) , 24 kB,197,Gold
+558,COVID-19 All Vaccines Tweets,Gabriel Preda , Updated a month ago,10.0, 1 File (CSV) , 31 MB,197,Gold
+559,UCI ML Drug Review dataset,Jessica Li , Updated 3 years ago,8.8, 2 Files (CSV) , 43 MB,196,Silver
+560,Ubuntu Dialogue Corpus,Rachael Tatman , Updated 4 years ago,7.6, 4 Files (CSV) , 838 MB,196,Silver
+561,(LoL) League of Legends Ranked Games,Mitchell J , Updated 4 years ago,7.6," 4 Files (CSV, JSON) ", 3 MB,196,Bronze
+562,Kuzushiji-MNIST,anokas , Updated 3 years ago,7.1," 15 Files (other, CSV) ", 599 MB,196,Gold
+563,Top Personality Dataset,Arslan Ali , Updated a year ago,10.0, 2 Files (CSV) , 10 MB,196,Silver
+564,COVID-19 Symptoms Checker,Bilal Hungund , Updated 2 years ago,10.0, 2 Files (CSV) , 933 kB,195,Silver
+565,Housing in London,Justinas Cirtautas , Updated 2 years ago,10.0, 2 Files (CSV) , 173 kB,195,Silver
+566,NFL Statistics,KendallGillies , Updated 5 years ago,7.1, 19 Files (CSV) , 12 MB,194,Bronze
+567,NBA Enhanced Box Score and Standings (2012 - 2018),Paul Rossotti , Updated 3 years ago,7.6," 17 Files (CSV, other) ", 17 MB,193,Silver
+568,Air Quality in Madrid (2001-2018),Decide Soluciones , Updated 4 years ago,7.9," 20 Files (CSV, other) ", 165 MB,193,Silver
+569,The Depression Dataset,Möbius , Updated a year ago,8.8, 56 Files (CSV) , 5 MB,193,Silver
+570,OpenAQ,Open AQ , Updated 4 years ago,7.1, BigQuery, BigQuery,193,Silver
+571,San Francisco Building Permits,Aparna Shastry , Updated 4 years ago,8.2," 2 Files (CSV, other) ", 19 MB,192,Gold
+572,Bengaluru House price data,AmitabhaChakraborty , Updated 4 years ago,4.7, 1 File (CSV) , 200 kB,192,Silver
+573,E-Commerce Shipping Data,Prachi Gopalani , Updated 10 months ago,8.2, 1 File (CSV) , 124 kB,192,Silver
+574,Classification of Handwritten Letters,Olga Belitskaya , Updated 8 months ago,7.1," 51503 Files (other, CSV) ", 353 MB,193,Gold
+575,Fashion Product Images (Small),Param Aggarwal , Updated 3 years ago,5.9," 44441 Files (other, CSV) ", 593 MB,191,Silver
+576,Amazon Cell Phones Reviews,Griko Nibras , Updated 2 years ago,10.0, 2 Files (CSV) , 9 MB,191,Bronze
+577,Titanic dataset,Brenda N , Updated a month ago,10.0, 1 File (CSV) , 12 kB,194,Silver
+578,Bike Sharing in Washington D.C. Dataset,Mark Kaghazgarian , Updated 4 years ago,7.1," 3 Files (CSV, other) ", 586 kB,190,Silver
+579,Deep-NLP,samdeeplearning , Updated 5 years ago,8.2, 2 Files (CSV) , 239 kB,190,Silver
+580,Denver Crime Data,Paul Mooney , Updated 3 days ago,7.1, 31 MB, 31 MB,190,Silver
+581,BigMart Sales Data,Brij , Updated 4 years ago,2.9, 2 Files (CSV) , 314 kB,189,Silver
+582,Twitter Sentiment Analysis,Ali Toosi , Updated 3 years ago,6.5, 2 Files (CSV) , 2 MB,189,Silver
+583,pump_sensor_data,UnknownClass , Updated 3 years ago,7.1, 1 File (CSV) , 39 MB,189,Silver
+584,Climate Weather Surface of Brazil - Hourly,PROPPG/PPG em Informática - Doutorado e Mestrado , Updated 3 months ago,9.7," 9 Files (CSV, other) ", 2 GB,189,Silver
+585,Fruits fresh and rotten for classification,Sriram Reddy Kalluri , Updated 3 years ago,3.8, 13598 Files (other) , 4 GB,188,Silver
+586,pima-indians-diabetes.csv,Kumar , Updated 4 years ago,4.7, 1 File (CSV) , 9 kB,188,Bronze
+587,Chicago Taxi Trips,City of Chicago , Updated 4 years ago,7.1, BigQuery, BigQuery,188,Silver
+588,FiveThirtyEight,FiveThirtyEight , Updated 5 years ago,7.6," 487 Files (CSV, other) ", 29 MB,188,Silver
+589,Brazilian Cities,Cristiana Parada , Updated 2 years ago,10.0, 2 Files (CSV) , 966 kB,188,Silver
+590,casting product image data for quality inspection,Ravirajsinh Dabhi , Updated 2 years ago,8.8, 8648 Files (other) , 105 MB,188,Silver
+591,US historical stock prices with earnings data,TS , Updated 7 months ago,7.6, 4 Files (CSV) , 486 MB,189,Silver
+592,500 Person Gender-Height-Weight-Body Mass Index,Yasin Ersever , Updated 4 years ago,8.8, 1 File (CSV) , 2 kB,188,Bronze
+593,Labelled Faces in the Wild (LFW) Dataset,Jessica Li , Updated 4 years ago,7.6," 13243 Files (other, CSV) ", 118 MB,187,Silver
+594,Game of Thrones Subtitles,GunnvantSaini , Updated 4 years ago,8.8, 7 Files (JSON) , 757 kB,187,Bronze
+595,Covid-19 Case Surveillance Public Use Dataset,Möbius , Updated a year ago,10.0, 1 File (CSV) , 48 MB,187,Silver
+596,Top Spotify Tracks of 2017,Nadin Tamer , Updated 4 years ago,8.8, 1 File (CSV) , 7 kB,186,Silver
+597,A 6-figure prize by soccer prediction,Mohammad Ghahramani , Updated 4 years ago,7.6," 21 Files (other, CSV) ", 11 MB,186,Bronze
+598,Ocular Disease Recognition,Larxel , Updated a year ago,8.2," 14394 Files (other, CSV) ", 2 GB,186,Silver
+599,India News Headlines Dataset,Rohit Kulkarni , Updated 10 months ago,10.0, 1 File (CSV) , 84 MB,187,Silver
+600,"US Unemployment Rate by County, 1990-2016",Jay Ravaliya , Updated 5 years ago,8.5," 2 Files (JSON, CSV) ", 13 MB,185,Silver
+601,Crimes in Boston,AnkurJain , Updated 3 years ago,8.2, 1 File (CSV) , 11 MB,185,Bronze
+602,PlantVillage Dataset,Abdallah Ali , Updated 2 years ago,8.8, 162916 Files (other) , 4 GB,186,Silver
+603,Employee Attrition,People HR Analytics Repository , Updated 5 years ago,8.2, 1 File (CSV) , 513 kB,184,Silver
+604,Meteorite Landings,NASA , Updated 5 years ago,7.1, 1 File (CSV) , 701 kB,184,Silver
+605,3D MNIST,David de la Iglesia Castro , Updated 2 years ago,7.5, 5 Files (other) , 160 MB,184,Gold
+606,World Development Indicators,World Bank , Updated 3 years ago,7.1," 8 Files (CSV, other) ", 136 MB,183,Silver
+607,OSMI Mental Health in Tech Survey 2016,"Open Sourcing Mental Illness, LTD ", Updated 2 years ago,7.1," 215 Files (other, JSON, CSV) ", 14 MB,183,Silver
+608,"Chronic illness: symptoms, treatments and triggers",Flaredown , Updated a year ago,10.0, 1 File (CSV) , 45 MB,183,Silver
+609,League of Legends Ranked Matches,Paolo Campanelli , Updated 4 years ago,7.6, 7 Files (CSV) , 195 MB,182,Silver
+610,Hacker News Posts,Hacker News , Updated 5 years ago,7.1, 1 File (CSV) , 20 MB,182,Silver
+611,Indian School Education Statistics,Vidya Pb , Updated a year ago,10.0, 7 Files (CSV) , 24 kB,182,Silver
+612,Beer Consumption - Sao Paulo,Alexandre George Lustosa , Updated 3 years ago,7.1, 1 File (CSV) , 5 kB,182,Silver
+613,IMDb Dataset,Ashirwad , Updated 2 years ago,8.8, 2 GB, 2 GB,182,Silver
+614,Heart Disease and Stroke Prevention,Mazhar Karimi , Updated 4 years ago,7.1, 1 File (CSV) , 1 MB,181,Silver
+615,US Border Crossing Data,Divyansh Agrawal , Updated 2 years ago,10.0, 1 File (CSV) , 2 MB,181,Silver
+616,Monty Python Flying Circus,Allan , Updated 4 years ago,8.2, 1 File (SQLITE) , 1 MB,180,Bronze
+617,Recipe Ingredients Dataset,Kaggle , Updated 5 years ago,7.5, 2 Files (JSON) , 2 MB,180,Silver
+618,Sloan Digital Sky Survey DR14,LennartGrosser , Updated 3 years ago,8.2, 1 File (CSV) , 457 kB,180,Silver
+619,FIFA Soccer Rankings,Tadhg Fitzgerald , Updated 4 years ago,7.1, 1 File (CSV) , 710 kB,179,Silver
+620,StackSample: 10% of Stack Overflow Q&A,Stack Overflow , Updated 2 years ago,7.1, 3 Files (CSV) , 1 GB,179,Silver
+621,NOAA GSOD,NOAA , Updated 2 years ago,6.8, BigQuery, BigQuery,179,Silver
+622,Clubhouse Dataset 9.7M,Vahid Baghi , Updated 6 months ago,9.4, 6 Files (other) , 3 GB,179,Gold
+623,Breast Cancer Prediction Dataset,Merishna Singh Suwal , Updated 3 years ago,8.2, 1 File (CSV) , 8 kB,178,Silver
+624,Diabetes 130 US hospitals for years 1999-2008,"Humberto Brandão, Ph.D. ", Updated 4 years ago,7.9," 2 Files (CSV, other) ", 5 MB,178,Silver
+625,Chai Time Data Science | CTDS.Show,Vopani , Updated a year ago,9.1," 153 Files (CSV, other) ", 3 MB,179,Gold
+626,My Uber Drives,Zeeshan-ul-hassan Usmani , Updated 5 years ago,10.0, 1 File (CSV) , 17 kB,179,Silver
+627,Accidents in France from 2005 to 2016,Ahmed Lahlou Mimi , Updated 4 years ago,7.1, 5 Files (CSV) , 42 MB,177,Silver
+628,EU LGBT Survey,def me(x) , Updated 2 years ago,10.0, 6 Files (CSV) , 625 kB,177,Silver
+629,New York City Current Job Postings,City of New York , Updated 2 years ago,7.1," 3 Files (CSV, other, JSON) ", 3 MB,177,Silver
+630,Data Hackers Survey 2019,Data Hackers , Updated 2 years ago,9.7," 2 Files (CSV, other) ", 137 kB,177,Gold
+631,Social Power NBA,Noah Gift , Updated 4 years ago,8.5, 17 Files (CSV) , 1 MB,177,Bronze
+632,Cancer Inhibitors,Kelvin Xiao , Updated 2 years ago,8.8," 29 Files (CSV, other) ", 109 MB,177,Silver
+633,Trump Tweets,Austin Reese , Updated 2 years ago,10.0, 2 Files (CSV) , 7 MB,177,Silver
+634,Retail Product Checkout Dataset,Lei Yang , Updated 3 years ago,7.5," 83742 Files (other, JSON) ", 27 GB,176,Silver
+635,Sales Conversion Optimization,Gokagglers , Updated 4 years ago,6.5, 1 File (CSV) , 18 kB,176,Silver
+636,EEG data from basic sensory task in Schizophrenia,Brian Roach , Updated 3 years ago,8.8, 45 Files (CSV) , 9 GB,176,Silver
+637,The Marvel Universe Social Network,Claudio Sanhueza , Updated 5 years ago,9.7, 3 Files (CSV) , 3 MB,177,Silver
+638,UK Road Safety: Traffic Accidents and Vehicles,Thanasis , Updated 3 years ago,8.2, 2 Files (CSV) , 149 MB,175,Bronze
+639,Turkish Market Sales Dataset With 9.000+Items,Omer Colakoglu , Updated a year ago,4.7, 1 File (other) , 105 MB,175,Gold
+640,7+ Million Company Dataset,People Data Labs , Updated 3 years ago,5.6, 1 File (CSV) , 292 MB,176,Silver
+641,Temperature change,Sevgi SY , Updated a year ago,10.0, 2 Files (CSV) , 797 kB,175,Silver
+642,UK Car Accidents 2005-2015,silicon99 , Updated 5 years ago,7.9," 32 Files (CSV, other) ", 117 MB,174,Bronze
+643,The Economic Freedom Index,Lewis Duncan , Updated 3 years ago,8.2, 1 File (CSV) , 15 kB,174,Bronze
+644,Used Cars Price Prediction,Avi Kasliwal , Updated 3 years ago,7.9, 2 Files (CSV) , 176 kB,174,Silver
+645,Cityscapes Image Pairs,DanB , Updated 4 years ago,7.5, 3475 Files (other) , 211 MB,174,Gold
+646,Hollywood Theatrical Market Synopsis 1995 to 2021,John Harshith , Updated 2 months ago,9.7, 9 Files (CSV) , 6 kB,180,Gold
+647,COVID-19 Indonesia Dataset,Hendratno , Updated a month ago,10.0, 1 File (CSV) , 924 kB,174,Silver
+648,Sokoto Coventry Fingerprint Dataset (SOCOFing),ruizgara , Updated 3 years ago,7.5, 55270 Files (other) , 878 MB,172,Silver
+649,Education in India,Rajanand Ilangovan , Updated 4 years ago,8.2, 6 Files (CSV) , 901 kB,172,Silver
+650,HEALTHCARE PROVIDER FRAUD DETECTION ANALYSIS,Rohit Anand Gupta , Updated 3 years ago,6.5, 8 Files (CSV) , 27 MB,171,Bronze
+651,Temperature Readings : IOT Devices,Atul Anand {Jha} , Updated 2 years ago,10.0, 1 File (CSV) , 1 MB,171,Gold
+652,Fibrosis SMOC2 Raw Counts,Tensor Girl , Updated 2 years ago,10.0, 1 File (CSV) , 492 kB,171,Gold
+653,Dataset of songs in Spotify,Andriy Samoshyn , Updated a year ago,10.0, 2 Files (CSV) , 3 MB,171,Silver
+654,COVID-19 patient pre-condition dataset,Tanmoy Mukherjee , Updated a year ago,9.7," 3 Files (CSV, other) ", 8 MB,170,Silver
+655,English Premier League stats 2019-2020,Ido Yoely , Updated a year ago,9.7, 2 Files (CSV) , 845 kB,171,Silver
+656,Impact of Covid-19 Pandemic on the Global Economy,Shashwat Tiwari , Updated a year ago,9.4, 2 Files (CSV) , 1 MB,170,Silver
+657,Hotel Reviews,Datafiniti , Updated 3 years ago,8.5, 3 Files (CSV) , 14 MB,170,Silver
+658,Boston Airbnb Open Data,Airbnb , Updated 2 years ago,7.1, 3 Files (CSV) , 17 MB,170,Silver
+659,"Stock Market Data (NASDAQ, NYSE, S&P500)",Paul Mooney , Updated 14 days ago,7.5," 9629 Files (JSON, CSV) ", 1 GB,169,Gold
+660,Images of LEGO Bricks,Joost Hazelzet , Updated 2 years ago,9.4, 46435 Files (other) , 1 GB,169,Silver
+661,Rice Diseases Image Dataset,Huy Minh Do , Updated 2 years ago,3.8, 5447 Files (other) , 13 GB,169,Silver
+662,End ALS Kaggle Challenge,ALS Group , Updated 9 months ago,9.4," 228 Files (other, CSV) ", 13 GB,170,Gold
+663,Aviation Accident Database & Synopses,Kheirallah Samaha , Updated 9 months ago,10.0, 2 Files (CSV) , 4 MB,169,Silver
+664,Malnutrition across the globe,Ruchi Bhatia , Updated 2 years ago,10.0, 2 Files (CSV) , 81 kB,169,Gold
+665,US Elections Dataset,Bojan Tunguz , Updated a year ago,10.0, 2 Files (CSV) , 136 kB,169,Gold
+666,Salary data - Simple linear regression,karthickveerakumar , Updated 4 years ago,3.5, 1 File (CSV) , 378 B,168,Silver
+667,Daily Power Generation in India (2017-2020),Navin Mundhra , Updated a year ago,10.0," 4 Files (other, CSV) ", 3 MB,168,Gold
+668,SARS 2003 Outbreak Dataset,Devakumar K. P. , Updated 2 years ago,10.0, 2 Files (CSV) , 11 kB,168,Silver
+669,Pulmonary Chest X-Ray Abnormalities,K Scott Mader , Updated 4 years ago,6.3, 1881 Files (other) , 4 GB,168,Silver
+670,timm (PyTorch Image Models),Nikita Kozodoi , Updated 3 months ago,8.8," 370 Files (other, JSON, CSV) ", 15 MB,170,Gold
+671,Diabetes Dataset,Mehmet Akturk , Updated a year ago,10.0, 1 File (CSV) , 9 kB,171,Gold
+672,Police Violence & Racial Equity - Part 1 of 3,JohnM , Updated a year ago,9.7, 5 Files (CSV) , 10 MB,168,Gold
+673,Google Patents Public Data,Google BigQuery , Updated 3 years ago,7.1, BigQuery, BigQuery,167,Silver
+674,Chinese MNIST,Gabriel Preda , Updated 9 months ago,9.4," 15002 Files (other, CSV) ", 17 MB,167,Gold
+675,World Soccer DB: archive of odds [01-JUN-2021],sash , Updated 7 months ago,8.2, 1 File (SQLITE) , 51 MB,168,Silver
+676,Biodiversity in National Parks,National Park Service , Updated 5 years ago,8.8, 2 Files (CSV) , 3 MB,166,Silver
+677,SARS CORONAVIRUS ACCESSION,James Ingram , Updated 2 years ago,9.4," 6 Files (other, CSV) ", 2 MB,166,Silver
+678,bert base uncased,Abhishek Thakur , Updated 2 years ago,3.1," 3 Files (other, JSON) ", 408 MB,166,Gold
+679,bert base uncased,Abhishek Thakur , Updated 2 years ago,3.1," 3 Files (other, JSON) ", 408 MB,166,Gold
+680,Android smartphones high accuracy GNSS datasets,Google , Updated a year ago,8.8, 190 Files (other) , 1 GB,166,Silver
+681,Disease Symptom Prediction,Pranay Patil , Updated 2 years ago,9.7, 4 Files (CSV) , 31 kB,166,Silver
+682,COVID-19 Tracking Germany,Heads or Tails , Updated 2 days ago,7.6," 14 Files (CSV, other) ", 18 MB,166,Gold
+683,NYS Environmental Remediation Sites,State of New York , Updated 6 months ago,7.1," 4 Files (CSV, other, JSON) ", 4 MB,165,Silver
+684,Complete Cryptocurrency Market History,Tania J , Updated 3 years ago,7.6, 1 File (CSV) , 14 MB,164,Silver
+685,Saccharomyces cerevisiae - Yeast Genome,Tensor Girl , Updated 2 years ago,10.0, 1 File (other) , 4 MB,164,Gold
+686,Pakistan's Largest E-Commerce Dataset,Zeeshan-ul-hassan Usmani , Updated a year ago,9.7, 1 File (CSV) , 14 MB,164,Gold
+687,Goodreads Book Datasets With User Rating 2M,Bahram Jannesar , Updated a year ago,9.7, 30 Files (CSV) , 483 MB,164,Gold
+688,Boat types recognition,Clorichel , Updated 3 years ago,7.5, 1462 Files (other) , 883 MB,163,Silver
+689,Predict Pakistan Elections 2018,Zeeshan-ul-hassan Usmani , Updated 3 years ago,7.6," 21 Files (other, CSV) ", 49 MB,163,Gold
+690,Aerial Bombing Operations in World War II,United States Air Force , Updated 5 years ago,8.2, 1 File (CSV) , 4 MB,163,Silver
+691,Ebola | 2014-2016 | Western Africa Ebola Outbreak,Devakumar K. P. , Updated 2 years ago,10.0, 2 Files (CSV) , 97 kB,163,Silver
+692,News Aggregator Dataset,UCI Machine Learning , Updated 5 years ago,7.1, 1 File (CSV) , 29 MB,162,Silver
+693,Tomato,Nouaman Lamrahi , Updated 2 years ago,4.4, 22930 Files (other) , 779 MB,164,Silver
+694,Restaurant Data with Consumer Ratings,UCI Machine Learning , Updated 4 years ago,7.4," 10 Files (CSV, other) ", 40 kB,162,Silver
+695,COVID-19 containment and mitigation measures,Paul Mooney , Updated 24 days ago,9.4, 144 kB, 144 kB,162,Silver
+696,Open Exoplanet Catalogue,Meg Risdal , Updated 5 years ago,8.2, 1 File (CSV) , 126 kB,161,Gold
+697,EOD data for all Dow Jones stocks,Timo Bozsolik , Updated 3 years ago,7.1, 30 Files (CSV) , 2 MB,161,Silver
+698,Iowa Liquor Sales,Aleksey Bilogur , Updated 2 years ago,8.2, 1 File (CSV) , 767 MB,161,Silver
+699,Flower Color Images,Olga Belitskaya , Updated a year ago,7.5," 815 Files (other, CSV) ", 52 MB,161,Silver
+700,weight-height.csv,Mustafa Ali , Updated 4 years ago,3.5, 1 File (CSV) , 171 kB,160,Bronze
+701,Wine Quality,Raj Parmar , Updated 3 years ago,7.1, 1 File (CSV) , 100 kB,161,Silver
+702,DDSM Mammography,Eric A. Scuccimarra , Updated 4 years ago,7.5, 9 Files (other) , 3 GB,160,Silver
+703,Bank Turnover Dataset,Tarun Sunkaraneni , Updated 4 years ago,6.8, 1 File (CSV) , 268 kB,161,Silver
+704,Coronavirus (covid19) Tweets,Shane Smith , Updated 2 years ago,10.0, 1 File (CSV) , 2 kB,160,Bronze
+705,Arabidopsis thaliana Short Reads,Tensor Girl , Updated 2 years ago,10.0, 1 File (other) , 28 kB,160,Gold
+706,Disney+ Movies and TV Shows,Shivam Bansal , Updated a month ago,10.0, 1 File (CSV) , 134 kB,160,Gold
+707,NCAA Basketball,NCAA , Updated 3 years ago,6.8, BigQuery, BigQuery,159,Silver
+708,Global Food Prices,Jacob Boysen , Updated 4 years ago,8.5, 1 File (CSV) , 4 MB,159,Bronze
+709,U.S. Incomes by Occupation and Gender,Jean-Phillipe , Updated 5 years ago,8.5, 1 File (CSV) , 12 kB,159,Silver
+710,Online Courses from Harvard and MIT,edX , Updated 5 years ago,7.6, 1 File (CSV) , 22 kB,159,Silver
+711,HackerRank Developer Survey 2018,HackerRank , Updated 4 years ago,8.2, 5 Files (CSV) , 5 MB,159,Silver
+712,MIAS Mammography,K Scott Mader , Updated 4 years ago,7.5, 327 Files (other) , 327 MB,159,Silver
+713,Ethereum Blockchain,Google BigQuery , Updated 3 years ago,7.1, BigQuery, BigQuery,158,Silver
+714,Caltech 256 Image Dataset,Jessica Li , Updated 4 years ago,7.5, 30608 Files (other) , 2 GB,158,Silver
+715,My Complete Genome,Zeeshan-ul-hassan Usmani , Updated 8 months ago,10.0, 7 Files (CSV) , 33 MB,158,Gold
+716,Irish Times - Waxy-Wany News,Rohit Kulkarni , Updated 3 months ago,10.0, 2 Files (CSV) , 54 MB,158,Bronze
+717,HR Analytics,Giri Pujar , Updated 4 years ago,2.9, 1 File (CSV) , 114 kB,158,Silver
+718,NEWS SUMMARY,Kondalarao Vonteru , Updated 2 years ago,7.1, 2 Files (CSV) , 21 MB,157,Silver
+719,sRNA sequencing - Brain (GSE75140),Tensor Girl , Updated 2 years ago,8.8, 1 File (other) , 26 MB,157,Gold
+720,Star dataset to predict star types,Deepraj Baidya , Updated 2 years ago,10.0, 1 File (CSV) , 3 kB,157,Silver
+721,Online Retail Data Set,Vijaykumar Ummadisetty , Updated 4 years ago,4.1, 1 File (CSV) , 8 MB,158,Bronze
+722,Open Images,Google BigQuery , Updated 3 years ago,6.5, BigQuery, BigQuery,155,Silver
+723,Video Games Sales 2019,Abdulshaheed Alqunber , Updated 3 years ago,7.1, 2 Files (CSV) , 4 MB,156,more_horiz
+724,Housing price in Beijing,Ruiqurm , Updated 3 years ago,7.6, 1 File (CSV) , 13 MB,155,Bronze
+725,eCommerce Item Data,cclark , Updated 5 years ago,7.1, 1 File (CSV) , 141 kB,155,Silver
+726,Global Food & Agriculture Statistics,United Nations , Updated 4 years ago,7.9, 80 Files (CSV) , 466 MB,155,Bronze
+727,Four Shapes,smeschke , Updated 4 years ago,8.1, 14972 Files (other) , 23 MB,155,Bronze
+728,Fifa 18 More Complete Player Dataset,KevinH , Updated 4 years ago,8.5," 2 Files (CSV, other) ", 6 MB,155,Silver
+729,"Animal Image Dataset(DOG, CAT and PANDA)",Ashish Saxena , Updated 3 years ago,3.8, 3003 Files (other) , 394 MB,155,Silver
+730,Bank Loan Status Dataset,Zaur Begiev , Updated 5 years ago,7.1, 2 Files (CSV) , 9 MB,156,Silver
+731,Chronic KIdney Disease dataset,Mansoor Iqbal , Updated 5 years ago,7.1, 1 File (CSV) , 10 kB,156,Silver
+732,U.S. Airbnb Open Data,Kritik Seth , Updated a year ago,10.0, 1 File (CSV) , 11 MB,155,Silver
+733,eCommerce Events History in Cosmetics Shop,Michael Kechinov , Updated 2 years ago,10.0, 5 Files (CSV) , 451 MB,155,Silver
+734,Historical Sales and Active Inventory,JamesS , Updated 5 years ago,7.1, 1 File (CSV) , 5 MB,154,Bronze
+735,Boston Housing,Chad Schirmer , Updated 5 years ago,8.2, 1 File (CSV) , 4 kB,154,Silver
+736,350 000+ movies from themoviedb.org,Stephanerappeneau , Updated 4 years ago,7.6, 8 Files (CSV) , 70 MB,154,Silver
+737,Amazon Reviews: Unlocked Mobile Phones,PromptCloud , Updated 5 years ago,10.0, 1 File (CSV) , 34 MB,154,Silver
+738,CO2 and GHG emission data,Srikant Sahu , Updated 2 years ago,9.7, 1 File (CSV) , 93 kB,155,Silver
+739,Image Colorization,Shravankumar Shetty , Updated 3 years ago,8.1, 5 Files (other) , 2 GB,153,Silver
+740,Question-Answer Dataset,Rachael Tatman , Updated 4 years ago,7.6," 169 Files (other, CSV) ", 4 MB,153,Silver
+741,Car sales,GaganBhatia , Updated 4 years ago,5.9, 1 File (CSV) , 7 kB,153,Bronze
+742,Coursera Course Dataset,SIDDHARTH M , Updated 2 years ago,10.0, 1 File (CSV) , 23 kB,153,Gold
+743,Famous Iconic Women,Fatima-Ezzahra , Updated 10 months ago,7.5, 3146 Files (other) , 879 MB,154,Silver
+744,Movie Genre from its Poster,Neha , Updated 4 years ago,5.9," 998 Files (other, CSV) ", 38 MB,153,Silver
+745,Articles sharing and reading from CI&T DeskDrop,Gabriel Moreira , Updated 4 years ago,8.2, 2 Files (CSV) , 9 MB,152,Silver
+746,SIIM_TRAIN_TEST,See-- , Updated 2 years ago,1.8," 15293 Files (other, CSV) ", 4 GB,152,Gold
+747,"Predicting Depression, Anxiety and Stress",Yam Peleg , Updated 2 months ago,9.4," 3 Files (CSV, other) ", 8 MB,161,Silver
+748,IAM Handwriting Top50,TejasReddy , Updated 4 years ago,8.1, 4900 Files (other) , 196 MB,151,Silver
+749,Groceries Market Basket Dataset,Irfan Nasrullah , Updated 2 years ago,8.2, 2 Files (CSV) , 172 kB,151,Silver
+750,Churn in Telecom's dataset,david_becks , Updated 4 years ago,2.9, 1 File (CSV) , 119 kB,151,Silver
+751,MovieTweetings,Bojan Tunguz , Updated 7 months ago,10.0, 3 Files (other) , 11 MB,151,Gold
+752,Toy Dataset,Carlo Lepelaars , Updated 3 years ago,10.0, 1 File (CSV) , 1 MB,150,Silver
+753,Flipkart Products,PromptCloud , Updated 4 years ago,10.0, 1 File (CSV) , 6 MB,150,Bronze
+754,Stock-Market Sentiment Dataset,yash chaudhary , Updated 2 years ago,10.0, 1 File (CSV) , 206 kB,150,Silver
+755,Data Police shootings,Andriy Samoshyn , Updated 2 years ago,10.0, 1 File (CSV) , 133 kB,150,Silver
+756,Brent Oil Prices,Mustafa Abusalah , Updated a year ago,10.0, 1 File (CSV) , 37 kB,151,Silver
+757,Daily Happiness & Employee Turnover,Jose Berengueres , Updated 4 years ago,8.8, 4 Files (CSV) , 4 MB,150,Silver
+758,Housing Prices in Metropolitan Areas of India,Ruchi Bhatia , Updated a year ago,9.7, 6 Files (CSV) , 275 kB,150,Gold
+759,Adult income dataset,1251 , Updated 5 years ago,5.9, 1 File (CSV) , 668 kB,149,Silver
+760,2016 Parties in New York,Evgenii Vasilev , Updated 4 years ago,8.5, 4 Files (CSV) , 15 MB,149,Bronze
+761,Bank_Loan_modelling,Sunil Jacob , Updated 3 years ago,7.6, 1 File (other) , 339 kB,149,Bronze
+762,Sentiment Analysis for Financial News,Ankur Sinha , Updated 2 years ago,10.0," 7 Files (other, CSV) ", 925 kB,149,Silver
+763,Online Job Postings,Mad Hab , Updated 5 years ago,7.1," 2 Files (CSV, other) ", 15 MB,149,Silver
+764,Bee or wasp?,George Rey , Updated a year ago,9.4," 11425 Files (other, CSV) ", 586 MB,148,Silver
+765,Japan Trade Statistics,TadashiNagao , Updated 10 months ago,9.4, 12 Files (other) , 893 MB,148,Silver
+766,SARS-COV-2 Ct-Scan Dataset,PlamenEduardo , Updated 2 years ago,8.8, 2481 Files (other) , 242 MB,148,Silver
+767,Indian License Plates,ThamizhSelvan , Updated 3 years ago,3.1, 12766 Files (other) , 481 MB,147,Silver
+768,Multidimensional Poverty Measures,Oxford Poverty & Human Development Initiative , Updated 4 years ago,8.5, 2 Files (CSV) , 20 kB,147,Silver
+769,U.S. Healthcare Data,BuryBuryZymon , Updated 4 years ago,7.6, 26 Files (CSV) , 38 MB,147,Silver
+770,Weather Dataset,Muthukumar.J , Updated 4 years ago,2.9, 1 File (CSV) , 2 MB,147,Bronze
+771,Zika Virus Epidemic,Centers for Disease Control and Prevention , Updated 5 years ago,7.1, 1 File (CSV) , 768 kB,147,Silver
+772,Stanford Question Answering Dataset,Stanford University , Updated 2 years ago,7.5, 2 Files (JSON) , 9 MB,147,Silver
+773,Open University Learning Analytics Dataset,Roxanne Russell , Updated 3 years ago,7.1, 7 Files (CSV) , 88 MB,146,Bronze
+774,Transit systems of world,citylines.co , Updated 3 years ago,7.6, 7 Files (CSV) , 3 MB,146,Silver
+775,Churn Modelling,Shruti_Iyyer , Updated 3 years ago,7.6, 1 File (CSV) , 268 kB,146,Silver
+776,Daily Historical Stock Prices (1970 - 2018),Evan Hallmark , Updated 3 years ago,5.3, 1 File (CSV) , 492 MB,146,Silver
+777,Ethereum Historical Data,LiamLarsen , Updated 3 years ago,6.5, 16 Files (CSV) , 207 kB,146,Silver
+778,RNA-seq Airway Data,Tensor Girl , Updated 2 years ago,10.0, 2 Files (CSV) , 445 kB,146,Gold
+779,Brain Tumor,Jakesh Bohaju , Updated a year ago,8.8," 3764 Files (other, CSV) ", 15 MB,145,Bronze
+780,IP Network Traffic Flows Labeled with 75 Apps,Juan Sebastián Rojas , Updated 3 years ago,8.8, 1 File (CSV) , 539 MB,145,Bronze
+781,World Bank: International Debt Data,World Bank , Updated 3 years ago,6.5, BigQuery, BigQuery,145,Silver
+782,Emotions Sensor Data Set,jon.bill , Updated 3 years ago,8.2, 1 File (CSV) , 28 kB,145,Silver
+783,Telecom customer,abhinav , Updated 4 years ago,7.1, 1 File (CSV) , 14 MB,145,Bronze
+784,Melanoma TFRecords 256x256,Chris Deotte , Updated a year ago,5.9," 32 Files (other, CSV) ", 801 MB,144,Gold
+785,FiveThirtyEight Comic Characters Dataset,idris benmahdjoub , Updated 3 years ago,2.9, 2 Files (CSV), 2 Files (CSV),144,Silver
+786,Eye Gaze,4Quant , Updated 4 years ago,7.9," 429452 Files (other, CSV, JSON) ", 5 GB,144,Silver
+787,Synthetic data from a financial payment system,Edgar Lopez-Rojas , Updated 4 years ago,8.2, 2 Files (CSV) , 14 MB,143,Silver
+788,Hillary Clinton and Donald Trump Tweets,Ben Hamner , Updated 5 years ago,5.9, 1 File (CSV) , 968 kB,143,Silver
+789,Income classification,Lorenzo De Tomasi , Updated 3 years ago,5.3, 1 File (CSV) , 470 kB,143,Silver
+790,Global Shark Attacks,Toby Jolly , Updated 3 years ago,5.9, 1 File (CSV) , 561 kB,143,Silver
+791,World Development Indicators (WDI) Data,Google BigQuery , Updated 3 years ago,6.5, BigQuery, BigQuery,143,Silver
+792,Cost of Living,Ste_ , Updated 2 years ago,9.4, 1 File (CSV) , 24 kB,143,Silver
+793,Amazon reviews: Kindle Store Category,Bharadwaj Srigiriraju , Updated 4 years ago,10.0," 2 Files (JSON, CSV) ", 550 MB,143,Bronze
+794,LA Restaurant & Market Health Data,City of Los Angeles , Updated 2 years ago,7.1," 4 Files (CSV, JSON) ", 12 MB,143,Silver
+795,ChIP-seq data for the histone H3 - H3K27ac.,Tensor Girl , Updated 2 years ago,10.0, 3 Files (other) , 2 GB,143,Gold
+796,"Zika Virus , Whole Genome",Tensor Girl , Updated 2 years ago,8.8, 1 File (other) , 4 kB,143,Gold
+797,Emotions dataset for NLP,Praveen , Updated 2 years ago,10.0, 3 Files (other) , 738 kB,144,Silver
+798,Colorectal Histology MNIST,K Scott Mader , Updated 3 years ago,6.5," 5015 Files (other, CSV) ", 2 GB,143,Silver
+799,Colorectal Histology MNIST,K Scott Mader , Updated 3 years ago,6.5," 5015 Files (other, CSV) ", 2 GB,143,Silver
+800,Data Visualization Cheat sheets and Resources,Kash , Updated 2 months ago,8.8," 89 Files (other, CSV) ", 134 MB,143,Gold
+801,Air pressure system failures in Scania trucks,UCI Machine Learning , Updated 4 years ago,7.6," 5 Files (CSV, other) ", 38 MB,142,Silver
+802,Merger and Acquisitions by Tech Companies,Shivam Bansal , Updated 2 months ago,10.0, 1 File (CSV) , 32 kB,142,Gold
+803,Anime Faces,Soumik Rakshit , Updated 3 years ago,6.3, 21551 Files (other) , 462 MB,141,Silver
+804,EPL Results 1993-2018,Sam Lawson , Updated 3 years ago,7.6, 1 File (CSV) , 75 kB,141,Bronze
+805,Daily and Intraday Stock Price Data,Boris Marjanovic , Updated 4 years ago,7.5, 25597 Files (other) , 873 MB,141,Silver
+806,Planes in Satellite Imagery,rhammell , Updated 4 years ago,8.1," 32002 Files (JSON, other) ", 170 MB,141,Silver
+807,Mount Rainier Weather and Climbing Data,Sree Harsha , Updated 2 years ago,8.2, 2 Files (CSV) , 27 kB,141,Bronze
+808,EEG Brainwave Dataset: Feeling Emotions,Jordan Bird , Updated 3 years ago,6.5, 1 File (CSV) , 12 MB,141,Silver
+809,FastText crawl 300d 2M,Vladimir Demidov , Updated 4 years ago,8.1, 1 File (other) , 2 GB,140,Gold
+810,Chess Positions,Pavel Koryakin , Updated 3 years ago,8.8, 100000 Files (other) , 4 GB,141,Silver
+811,5 Celebrity Faces Dataset,DanB , Updated 4 years ago,5.6, 118 Files (other) , 5 MB,140,Silver
+812,Missing Migrants Project,Stefano Nocco , Updated 2 years ago,9.4, 1 File (CSV) , 313 kB,140,Silver
+813,Flight Fare Prediction MH,Nikhil Mittal , Updated 3 years ago,1.2, 3 Files (other) , 641 kB,140,Silver
+814,Demographics of Academy Awards (Oscars) Winners,Felix Mejia , Updated 2 years ago,9.4, 1 File (CSV) , 21 kB,139,Bronze
+815,Top Games on Google Play Store,Dhruvil Dave , Updated 7 months ago,10.0, 1 File (CSV) , 74 kB,139,Gold
+816,20M Rows Fake Turkish Names and Address Dataset,Omer Colakoglu , Updated 7 months ago,6.5, 3 Files (other) , 4 GB,139,Gold
+817,Star Type Classification / NASA,Baris Dincer , Updated 9 months ago,10.0, 1 File (CSV) , 3 kB,139,Silver
+818,roberta-base,Abhishek Thakur , Updated 2 months ago,4.4," 10 Files (other, JSON) ", 1 GB,139,Gold
+819,Russian Troll Tweets,vikas , Updated 4 years ago,7.4, 2 Files (CSV) , 22 MB,138,Silver
+820,No Data Sources,Kaggle , Updated 5 years ago,4.4, 1 File (CSV) , 159 B,138,Gold
+821,Restaurant Recommendation Challenge,Andriy Samoshyn , Updated a year ago,9.1," 10 Files (CSV, other) ", 560 MB,138,Silver
+822,Dunnhumby - The Complete Journey,Firat Gonen , Updated 2 years ago,10.0, 8 Files (CSV) , 130 MB,138,Gold
+823,Surface Crack Detection,Arun Pandian R , Updated 2 years ago,9.4, 40000 Files (other) , 244 MB,138,Silver
+824,FIFA 21 complete player dataset,Stefano Leone , Updated a year ago,10.0," 8 Files (other, CSV) ", 87 MB,138,Silver
+825,Behavioral Risk Factor Surveillance System,Centers for Disease Control and Prevention , Updated 4 years ago,8.2," 6 Files (CSV, JSON) ", 435 MB,137,Bronze
+826,Seinfeld Chronicles,Aman Shrivastava , Updated 4 years ago,7.1, 2 Files (CSV) , 1 MB,137,Silver
+827,Drug Classification,Pratham Tripathi , Updated a year ago,10.0, 1 File (CSV) , 2 kB,137,Gold
+828,Rock-Paper-Scissors Images,drgfreeman , Updated 3 years ago,8.8, 2189 Files (other) , 321 MB,137,Silver
+829,AISegment.com - Matting Human Datasets,Laurent H. , Updated 3 years ago,8.8, 68854 Files (other) , 31 GB,137,Silver
+830,Did it rain in Seattle? (1948-2017),Rachael Tatman , Updated 4 years ago,7.1, 1 File (CSV) , 144 kB,137,Bronze
+831,Bank marketing campaigns dataset | Opening Deposit,VolodymyrGavrysh , Updated 2 years ago,10.0, 1 File (CSV) , 400 kB,137,Silver
+832,Student Performance Data Set,Data-Science Sean , Updated 2 years ago,10.0, 1 File (CSV) , 12 kB,137,Silver
+833,IMDB Movies Dataset,Harshit Shankhdhar , Updated a year ago,10.0, 1 File (CSV) , 179 kB,138,Silver
+834,US Funds dataset from Yahoo Finance,Stefano Leone , Updated 23 days ago,10.0, 7 Files (CSV) , 371 MB,138,Bronze
+835,Predict'em All,SemionKorchevskiy , Updated 5 years ago,5.9," 2 Files (CSV, other) ", 147 MB,136,Silver
+836,COVID-19/SARS B-cell Epitope Prediction,Future Corporation , Updated a year ago,10.0, 3 Files (CSV) , 2 MB,136,Silver
+837,Interesting Data to Visualize,Alexis Cook , Updated 3 years ago,3.5, 13 Files (CSV) , 93 kB,136,Gold
+838,Dark Net Marketplace Data (Agora 2014-2015),philipjames11 , Updated 4 years ago,7.1, 1 File (CSV) , 8 MB,136,Bronze
+839,Interesting Data to Visualize,Alexis Cook , Updated 3 years ago,3.5, 13 Files (CSV) , 93 kB,136,Gold
+840,COVID-19/SARS B-cell Epitope Prediction,Future Corporation , Updated a year ago,10.0, 3 Files (CSV) , 2 MB,136,Silver
+841,Australian Election 2019 Tweets,Tania J , Updated 3 years ago,10.0, 2 Files (CSV) , 30 MB,135,Silver
+842,Logistic Regression,Ananya Nayan , Updated 4 years ago,4.1, 1 File (CSV) , 3 kB,135,Bronze
+843,Bible Corpus,Oswin Rahadiyan Hartono , Updated 5 years ago,7.6," 74 Files (other, CSV, JSON) ", 184 MB,135,Silver
+844,Global Terrorism Database (Turkish),Omer Colakoglu , Updated a year ago,1.2, 1 File (other) , 77 MB,135,Gold
+845,Clothing Fit Dataset for Size Recommendation,Rishabh Misra , Updated 3 years ago,10.0, 2 Files (JSON) , 42 MB,135,Silver
+846,"CDC Data: Nutrition, Physical Activity, & Obesity",Suzanne , Updated 4 years ago,6.5, 1 File (CSV) , 1 MB,134,Bronze
+847,"Hurricanes and Typhoons, 1851-2014",NOAA , Updated 5 years ago,8.2," 4 Files (CSV, other) ", 922 kB,134,Bronze
+848,Short Jokes,Abhinav Moudgil , Updated 5 years ago,7.1, 1 File (CSV) , 10 MB,134,Silver
+849,Nutrition facts for Starbucks Menu,Starbucks , Updated 4 years ago,8.5, 3 Files (CSV) , 10 kB,134,Bronze
+850,Philadelphia Crime Data,Mike Chirico , Updated 5 years ago,7.1, 1 File (CSV) , 74 MB,134,Silver
+851,sRNA sequencing - Pancreas (GSE84133),Tensor Girl , Updated 2 years ago,8.8, 1 File (other) , 66 MB,134,Silver
+852,Daily Financial News for 6000+ Stocks,bot_developer , Updated a year ago,10.0, 3 Files (CSV) , 220 MB,134,Bronze
+853,Daily Climate time series data,sumanthvrao , Updated 2 years ago,10.0, 2 Files (CSV) , 23 kB,134,Silver
+854,Face Mask Detection Dataset,Wobot Intelligence , Updated 2 years ago,4.1," 10353 Files (other, JSON, CSV) ", 3 GB,134,Silver
+855,The Mueller Report,Paul Mooney , Updated 3 years ago,10.0," 2 Files (other, CSV) ", 130 MB,134,Silver
+856,NYC Open Data,NYC Open Data , Updated 3 years ago,6.8, BigQuery, BigQuery,133,Silver
+857,Malicious and Benign Websites,Christian Urcuqui , Updated 4 years ago,5.9, 1 File (CSV) , 49 kB,133,Silver
+858,MovieLens 100K Dataset,Prajit Datta , Updated 5 years ago,6.3, 23 Files (other) , 5 MB,134,Silver
+859,1000 Netflix Shows,Chase Willden , Updated 5 years ago,8.2, 1 File (CSV) , 11 kB,133,Bronze
+860,Facebook V Results: Predicting Check Ins,Facebook , Updated 2 years ago,6.5," 3 Files (other, CSV) ", 3 GB,133,Bronze
+861,Indonesia-Coronavirus,Ardiansyah , Updated 2 years ago,9.4, 9 Files (CSV) , 10 kB,133,Silver
+862,COVID-19 - Clinical Data to assess diagnosis,Hospital Sírio-Libanês , Updated 2 years ago,8.2, 1 File (other) , 878 kB,133,Silver
+863,handwritten signatures,Divyansh Rai , Updated 3 years ago,6.3, 1021 Files (other) , 388 MB,132,Bronze
+864,Global Economic Monitor,World Bank , Updated 3 years ago,5.9, 38 Files (other) , 24 MB,132,Silver
+865,CNC Mill Tool Wear,Sharon Sun , Updated 4 years ago,7.9," 21 Files (CSV, other) ", 3 MB,132,Bronze
+866,Reddit Memes Dataset,Sayan Goswami , Updated 4 years ago,8.1," 3327 Files (other, JSON) ", 665 MB,132,Silver
+867,Sentiment Labelled Sentences Data Set,Mark Kaghazgarian , Updated 4 years ago,7.1," 7 Files (CSV, other) ", 334 kB,132,Silver
+868,Hospital Charges for Inpatients,Pranay Aryal , Updated 5 years ago,5.9, 1 File (CSV) , 8 MB,132,Silver
+869,Movie Dialog Corpus,Cornell University , Updated 4 years ago,8.2, 6 Files (other) , 9 MB,132,Silver
+870,Population by Country - 2020,Tanu N Prabhu , Updated a year ago,10.0, 1 File (CSV) , 8 kB,133,Silver
+871,Crime Data in Brazil,Marco Zanchi , Updated 3 years ago,8.2," 23 Files (CSV, other) ", 934 MB,132,Silver
+872,COVID-19 World Vaccine Adverse Reactions,Ayush Garg , Updated 9 months ago,10.0, 3 Files (CSV) , 9 MB,132,Silver
+873,Netflix Original Films & IMDB Scores,Luis , Updated 7 months ago,10.0, 1 File (CSV) , 13 kB,134,Silver
+874,glove.840B.300d.txt,takuoko , Updated 4 years ago,1.9, 1 File (other) , 2 GB,131,Gold
+875,Caravan Insurance Challenge,UCI Machine Learning , Updated 5 years ago,7.1, 1 File (CSV) , 273 kB,131,Silver
+876,Filipino Family Income and Expenditure,Francis Paul Flores , Updated 4 years ago,7.1, 1 File (CSV) , 4 MB,131,Bronze
+877,First GOP Debate Twitter Sentiment,Figure Eight , Updated 2 years ago,7.1," 2 Files (SQLITE, CSV) ", 3 MB,131,Silver
+878,Churn Modelling,Shubham Kumar , Updated 2 years ago,10.0, 1 File (CSV) , 268 kB,131,Silver
+879,Animal Crossing: New Horizons,PrasertKanawattanachai , Updated a year ago,7.9, 33 Files (CSV) , 799 kB,131,Bronze
+880,Titanic,Azeem Bootwala , Updated 5 years ago,8.2, 2 Files (CSV) , 12 kB,130,Bronze
+881,US Permanent Visa Applications,Jacob Boysen , Updated 4 years ago,8.2, 1 File (CSV) , 68 MB,130,Bronze
+882,Star Wars Movie Scripts,Xavier , Updated 4 years ago,10.0, 7 Files (other) , 161 kB,130,Silver
+883,Landscape Pictures,Arnaud ROUGETET , Updated 2 years ago,8.8, 4319 Files (other) , 650 MB,129,Silver
+884,Mental Health and Suicide Rates,Twinkle Khanna , Updated a year ago,10.0, 4 Files (CSV) , 21 kB,130,Silver
+885,Pakistan Suicide Bombing Attacks,Zeeshan-ul-hassan Usmani , Updated 4 years ago,9.7, 2 Files (CSV) , 69 kB,130,Silver
+886,CKPLUS,Ashadullah Shawon , Updated 3 years ago,3.8, 981 Files (other) , 4 MB,129,Bronze
+887,Adience Benchmark Gender And Age Classification,icegram , Updated 4 years ago,4.4, 38745 Files (other) , 1 GB,129,Bronze
+888,Austin Animal Center Shelter Outcomes,AaronSchlegel , Updated 4 years ago,8.5, 2 Files (CSV) , 3 MB,129,Bronze
+889,Indian Premier League CSV dataset,HarshaVardhan , Updated 5 years ago,7.1, 6 Files (CSV) , 738 kB,129,Silver
+890,Androgen Receptor ChIP-seq Peaks,Tensor Girl , Updated 2 years ago,9.7, 8 Files (other) , 434 kB,129,Gold
+891,Raw mouse mammary RNA-Seq data (fastq),Tensor Girl , Updated 2 years ago,10.0, 12 Files (other) , 1 MB,129,Silver
+892,Economic calendar Invest Forex https://t.me/econos,Sergey , Updated 8 months ago,9.1," 6 Files (CSV, other) ", 8 MB,129,Bronze
+893,An Open Dataset for Human Activity Analysis,Sasan Jafarnejad , Updated 4 years ago,7.1, 4 Files (CSV) , 135 MB,128,Silver
+894,Toy Products on Amazon,PromptCloud , Updated 4 years ago,10.0, 1 File (CSV) , 9 MB,128,Bronze
+895,UK Housing Prices Paid,HM Land Registry , Updated 2 years ago,8.2, 1 File (CSV) , 767 MB,128,Silver
+896,House Price Prediction Challenge,Anmol Kumar , Updated a year ago,10.0, 3 Files (CSV) , 2 MB,128,Silver
+897,Predict Droughts using Weather & Soil Data,Christoph Minixhofer , Updated 10 months ago,10.0, 4 Files (CSV) , 945 MB,128,Silver
+898,titanic,Hideki Asano , Updated 4 years ago,1.8," 5 Files (other, CSV) ", 734 kB,127,Bronze
+899,Laptop Prices,Ionas Kelepouris , Updated 4 years ago,5.9, 1 File (CSV) , 29 kB,127,Bronze
+900,Classify gestures by reading muscle activity.,Kirill Yashuk , Updated 3 years ago,8.5, 4 Files (CSV) , 889 kB,127,Bronze
+901,How ISIS Uses Twitter,Fifth Tribe , Updated 2 years ago,7.1," 2 Files (CSV, other) ", 2 MB,127,Silver
+902,Predict Test Scores of students,Mathias Ofosu , Updated 8 months ago,10.0, 1 File (CSV) , 21 kB,127,Silver
+903,Star Cluster Simulations,Mario Pasquato , Updated 5 years ago,8.2, 19 Files (CSV) , 43 MB,126,Silver
+904,Museum of Modern Art Collection,The Museum of Modern Art , Updated 5 years ago,8.2, 2 Files (CSV) , 6 MB,126,Bronze
+905,Marketing Campaign,Rodolfo Saldanha , Updated 2 years ago,9.1," 2 Files (other, CSV) ", 360 kB,126,Bronze
+906,Source based Fake News Classification,Ruchi Bhatia , Updated a year ago,10.0, 1 File (CSV) , 3 MB,126,Gold
+907,NBA player of the week,Jacob Baruch , Updated 2 years ago,10.0, 1 File (CSV) , 25 kB,126,Bronze
+908,TripAdvisor Restaurants Info for 31 Euro-Cities,Damien BENESCHI , Updated 4 years ago,7.4, 1 File (CSV) , 8 MB,125,Bronze
+909,Chronic Disease Indicators,Centers for Disease Control and Prevention , Updated 4 years ago,8.2, 1 File (CSV) , 8 MB,125,Bronze
+910,FIRE Dataset,Ahmed Saied , Updated 2 years ago,8.8, 999 Files (other) , 406 MB,125,Silver
+911,Korean Single Speaker Speech Dataset,Kyubyong Park , Updated 2 years ago,7.5, 12855 Files (other) , 3 GB,125,Silver
+912,Global Hospital Beds Capacity (for covid-19),Igor Kiulian , Updated 2 years ago,10.0, 18 Files (CSV) , 290 kB,125,Bronze
+913,SF Police Calls for Service and Incidents,City of San Francisco , Updated a year ago,7.1," 6 Files (CSV, other, JSON) ", 219 MB,125,Bronze
+914,The Estonia Disaster Passenger List,Christian Lillelund , Updated a year ago,10.0, 1 File (CSV) , 14 kB,125,Gold
+915,Palmer Archipelago (Antarctica) penguin data,Parul Pandey , Updated 2 years ago,9.7, 2 Files (CSV) , 12 kB,125,Gold
+916,Donald Trump Rally Speeches,Christian Lillelund , Updated a year ago,10.0, 35 Files (other) , 737 kB,125,Silver
+917,Twitter Edge Nodes,Mathurin Aché , Updated 10 months ago,10.0," 3 Files (CSV, other) ", 358 MB,126,Silver
+918,Cannabis Strains,LiamLarsen , Updated 4 years ago,5.9, 1 File (CSV) , 425 kB,124,Bronze
+919,Kickstarter Project Statistics,Cathie So , Updated 2 years ago,7.1, 2 Files (CSV) , 1 MB,124,Silver
+920,Ethereum Classic Blockchain,Google BigQuery , Updated 3 years ago,7.1, BigQuery, BigQuery,123,Silver
+921,Classified Ads for Cars,Miroslav Zoricak , Updated 5 years ago,7.1, 1 File (CSV) , 92 MB,123,Bronze
+922,"London Crime Data, 2008-2016",Jacob Boysen , Updated 4 years ago,8.2, 1 File (CSV) , 127 MB,123,Bronze
+923,Volcanic Eruptions in the Holocene Period,The Smithsonian Institution , Updated 5 years ago,8.2, 1 File (CSV) , 41 kB,123,Silver
+924,Los Angeles Metro Bike Share Trip Data,City of Los Angeles , Updated 2 years ago,7.1," 2 Files (CSV, JSON) ", 5 MB,123,Bronze
+925,The Spotify Hit Predictor Dataset (1960-2019),Farooq Ansari , Updated 2 years ago,10.0, 3 MB, 3 MB,123,Bronze
+926,U.S. Gasoline and Diesel Retail Prices 1995-2021,Mau Rua , Updated a year ago,10.0, 1 File (CSV) , 39 kB,123,Gold
+927,Diabetics prediction using logistic regression,kandi jagadish , Updated 3 years ago,5.3, 1 File (CSV) , 9 kB,122,Bronze
+928,NumtaDB: Bengali Handwritten Digits,Bengali.AI , Updated 3 years ago,7.6," 107302 Files (other, CSV) ", 2 GB,122,Gold
+929,United States Census,US Census Bureau , Updated 4 years ago,7.1, BigQuery, BigQuery,122,Bronze
+930,Pretrained Model Weights (Pytorch),Abhishek Thakur , Updated 2 years ago,9.4, 42 Files (other) , 10 GB,122,Gold
+931,Fingers,Pavel Koryakin , Updated 3 years ago,8.8, 21600 Files (other) , 381 MB,122,Silver
+932,Lung Cancer DataSet,Yusuf Dede , Updated 3 years ago,4.1, 1 File (CSV) , 1 kB,121,Bronze
+933,NSE Stocks Data,Minat Verma , Updated 4 years ago,8.8, 1 File (CSV) , 31 MB,122,Bronze
+934,SIIM ACR Pneumothorax Segmentation Data,Jesper Sören Dramsch , Updated 3 years ago,6.5," 12090 Files (other, CSV) ", 3 GB,121,Gold
+935,Titanic extended dataset (Kaggle + Wikipedia),Pavlo Fesenko , Updated 3 years ago,9.4, 3 Files (CSV) , 137 kB,121,Silver
+936,Los Angeles Traffic Collision Data,City of Los Angeles , Updated 2 years ago,7.1," 2 Files (CSV, JSON) ", 26 MB,121,Bronze
+937,Animal Faces,Larxel , Updated 2 years ago,8.8, 16130 Files (other) , 730 MB,121,Silver
+938,Loan Prediction Based on Customer Behavior,Subham Surana , Updated 5 months ago,10.0, 3 Files (CSV) , 5 MB,121,Silver
+939,Chicago Divvy Bicycle Sharing Data,JifuZhao , Updated 4 years ago,7.4, 2 Files (CSV) , 660 MB,120,Silver
+940,VGG-16,Keras , Updated 4 years ago,8.8," 3 Files (other, JSON) ", 568 MB,120,Silver
+941,Mall_Customers,shwetabh123 , Updated 4 years ago,2.9, 1 File (CSV) , 2 kB,120,Bronze
+942,Crime in Los Angeles,City of Los Angeles , Updated 4 years ago,8.2," 7 Files (CSV, other) ", 59 MB,120,Bronze
+943,E-commerce Public Dataset by Alibaba,Alibaba Group , Updated 2 years ago,6.3, 15 Files (other) , 7 kB,120,Bronze
+944,Demonetization in India Twitter Data,Amandeep Rathee , Updated 5 years ago,7.4, 1 File (CSV) , 920 kB,120,Silver
+945,Instacart Market Basket Analysis,psparks , Updated 4 years ago,4.1, 6 Files (CSV) , 207 MB,120,Bronze
+946,Diabetic Retinopathy 224x224 Gaussian Filtered,Sovit Ranjan Rath , Updated 2 years ago,8.8," 3664 Files (other, CSV) ", 448 MB,120,Silver
+947,Search Engine Results - Flights & Tickets Keywords,Elias Dabbas , Updated 2 years ago,8.2, 24 Files (CSV) , 35 MB,120,Bronze
+948,Medium articles dataset,Dorian Lazar , Updated 2 years ago,9.4," 6362 Files (other, CSV) ", 1 GB,120,Silver
+949,Paradise-Panama-Papers,Zeeshan-ul-hassan Usmani , Updated 4 years ago,8.2, 53 Files (CSV) , 140 MB,120,Silver
+950,Electronic Products and Pricing Data,Datafiniti , Updated 3 years ago,7.1, 1 File (CSV) , 10 MB,119,Bronze
+951,BBC News Summary,Pariza Sharif , Updated 4 years ago,7.5, 4450 Files (other) , 9 MB,119,Silver
+952,Wind Turbine Scada Dataset,Berk Erisen , Updated 3 years ago,5.9, 1 File (CSV) , 2 MB,119,Bronze
+953,"60,000+ Images of Cars",Paul , Updated 2 years ago,9.4, 64467 Files (other) , 715 MB,119,Silver
+954,Magic The Gathering Cards,Myles O'Neill , Updated 2 years ago,7.5, 1120 Files (JSON) , 383 MB,119,Silver
+955,Windows Store,Vishnu Varthan Rao , Updated a year ago,10.0, 1 File (CSV) , 95 kB,119,Gold
+956,Animal Crossing Reviews,Jesse Mostipak , Updated 2 years ago,8.8, 4 Files (CSV) , 772 kB,119,Silver
+957,Top Streamers on Twitch,Aayush Mishra , Updated a year ago,9.7, 1 File (CSV) , 37 kB,119,Silver
+958,Crop Recommendation Dataset,Atharva Ingle , Updated a year ago,5.9, 1 File (CSV) , 65 kB,119,Silver
+959,Emoji sentiment,Jose Berengueres , Updated 4 years ago,7.6, 5 Files (CSV) , 13 MB,119,Bronze
+960,List of PyPI Packages,Rachael Tatman , Updated 19 hours ago,5.6, 3 MB, 3 MB,119,Gold
+961,Board Game Data,mrpantherson , Updated 4 years ago,7.6, 3 Files (CSV) , 1 MB,118,Bronze
+962,CIFAR-10 Python,Kris , Updated 4 years ago,7.5, 8 Files (other) , 341 MB,118,Silver
+963,superstore_data,jr2ngb , Updated 3 years ago,5.3, 1 File (CSV) , 3 MB,118,Bronze
+964,"French employment, salaries, population per town",Etienne LQ , Updated 4 years ago,7.6," 6 Files (CSV, other) ", 33 MB,118,Silver
+965,EUR USD Forex Pair Historical Data (2002 - 2020),Imetomi , Updated a year ago,10.0, 3 Files (CSV) , 121 MB,118,Bronze
+966,Sunspots,Especuloide , Updated a year ago,8.2, 1 File (CSV) , 23 kB,118,Silver
+967,Pakistan Drone Attacks,Zeeshan-ul-hassan Usmani , Updated 4 years ago,9.7, 3 Files (CSV) , 120 kB,118,Silver
+968,National Footprint Accounts 2018,Global Footprint Network , Updated 3 years ago,8.5, 1 File (CSV) , 3 MB,117,Silver
+969,Resume Entities for NER,DataTurks , Updated 3 years ago,7.5, 1 File (JSON) , 330 kB,117,Silver
+970,US Adult Income,John Olafenwa , Updated 4 years ago,8.5, 2 Files (CSV) , 719 kB,117,Silver
+971,COVID-19 Xray Dataset (Train & Test Sets),Wei Hao Khoong , Updated 2 years ago,8.8, 188 Files (other) , 88 MB,117,Silver
+972,NFL Football Player Stats,zackthoutt , Updated 4 years ago,8.8, 2 Files (JSON) , 34 MB,117,Bronze
+973,Beer Reviews,Datadoume , Updated 3 years ago,7.1, 1 File (CSV) , 29 MB,117,Bronze
+974,"300 images of squares, circles, and triangles",mark s , Updated 4 years ago,7.5, 300 Files (other) , 412 kB,116,Silver
+975,Black Friday,StefanDolezel , Updated 4 years ago,3.8, 2 Files (CSV) , 8 MB,116,Silver
+976,diabetes.csv,saurabh singh , Updated 4 years ago,4.1, 1 File (CSV) , 9 kB,116,Bronze
+977,1000 Cannabis Genomes Project,Google BigQuery , Updated 3 years ago,6.5, BigQuery, BigQuery,116,Silver
+978,Pothole Detection Dataset,Atulya Kumar , Updated 2 years ago,8.1, 681 Files (other) , 203 MB,116,Silver
+979,Shopify app store,Stanislav Dobrovolschii , Updated a year ago,10.0, 7 Files (CSV) , 49 MB,116,Bronze
+980,Superstore Sales Dataset,Rohit Sahoo , Updated a year ago,10.0, 1 File (CSV) , 492 kB,116,Silver
+981,European Soccer Score Card Database,Omer Colakoglu , Updated a year ago,5.3, 1 File (other) , 203 MB,116,Silver
+982,Cassava Leaf Disease Merged,Tahsin Mostafiz , Updated a year ago,5.0," 26338 Files (other, CSV) ", 3 GB,116,Gold
+983,Flickr8K,Shadab Hussain , Updated 3 years ago,1.9, 8103 Files (other) , 2 GB,115,Silver
+984,Funding Successful Projects on Kickstarter,Lathwal , Updated 5 years ago,8.8, 3 Files (CSV) , 21 MB,115,Silver
+985,IMDB Review Dataset,Utathya Ghosh , Updated 4 years ago,5.3, 1 File (CSV) , 53 MB,115,Bronze
+986,Industrial Safety and Health Analytics Database,IHM Stefanini , Updated 4 years ago,8.5," 3 Files (CSV, other) ", 164 kB,115,Silver
+987,A millennium of macroeconomic data,Bank of England , Updated 4 years ago,8.2," 3 Files (other, CSV) ", 22 MB,115,Silver
+988,The Ultimate Halloween Candy Power Ranking,FiveThirtyEight , Updated 4 years ago,7.1, 1 File (CSV) , 2 kB,115,Bronze
+989,Football Data: Expected Goals and Other Metrics,Sergi Lehkyi , Updated a year ago,10.0, 2 Files (CSV) , 1 MB,116,Bronze
+990,Cats-vs-Dogs,Sachin , Updated 2 years ago,8.1, 826 MB, 826 MB,115,Bronze
+991,Uber & Lyft Cab prices,RaviMunde , Updated 3 years ago,8.8," 4 Files (other, CSV) ", 77 MB,115,Silver
+992,Complete Pokemon Dataset (Updated 16.04.21),Mario Tormo Romero , Updated 9 months ago,9.7, 3 Files (CSV) , 199 kB,115,Bronze
+993,Nifty Indices Dataset,SRK , Updated 6 months ago,9.7, 13 Files (CSV) , 1 MB,115,Gold
+994,Economic Freedom of the World,Guillermina Sutter Schneider , Updated 3 years ago,7.4, 1 File (CSV) , 413 kB,114,Bronze
+995,"Zillow Rent Index, 2010-Present",Zillow , Updated 5 years ago,7.4, 2 Files (CSV) , 4 MB,114,Bronze
+996,The Interview Attendance Problem,VishnuRaghavan , Updated 4 years ago,7.9," 2 Files (CSV, other) ", 127 kB,114,Silver
+997,US Population By Zip Code,US Census Bureau , Updated 5 years ago,8.2, 2 Files (CSV) , 30 MB,114,Silver
+998,British Birdsong Dataset,Rachael Tatman , Updated 4 years ago,7.6," 264 Files (other, CSV) ", 664 MB,115,Silver
