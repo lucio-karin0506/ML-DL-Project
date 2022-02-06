@@ -9,7 +9,11 @@ class Youtube_Comment:
         self.YOUTUBE_API_SERVICE_NAME = YOUTUBE_API_SERVICE_NAME
         self.YOUTUBE_API_VERSION = YOUTUBE_API_VERSION
 
-        self.youtube = build(self.YOUTUBE_API_SERVICE_NAME, self.YOUTUBE_API_VERSION, developerKey=self.YOUTUBE_API_KEY)
+        self.youtube = build(
+                             self.YOUTUBE_API_SERVICE_NAME, 
+                             self.YOUTUBE_API_VERSION, 
+                             developerKey=self.YOUTUBE_API_KEY
+                            )
 
     '''
         - getting search keyword result
