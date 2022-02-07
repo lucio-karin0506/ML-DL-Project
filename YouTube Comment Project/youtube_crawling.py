@@ -208,7 +208,7 @@ class Youtube:
 
 
 if __name__ == '__main__':
-    YOUTUBE_API_KEY = 'AIzaSyBw_a4y-3pDJSPpHRX6CdbaCudxuWWGe_A'
+    YOUTUBE_API_KEY = ''
     YOUTUBE_API_SERVICE_NAME = 'youtube'
     YOUTUBE_API_VERSION = 'v3'
 
