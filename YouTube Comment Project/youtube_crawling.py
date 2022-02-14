@@ -215,11 +215,11 @@ if __name__ == '__main__':
     youtube = Youtube(YOUTUBE_API_KEY, YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION)
 
     # test for get_search_result
-    # res = youtube.get_search_result('정찬성', max_results=10, jsonify=True)
+    # res = youtube.get_search_result('쇼트트랙', max_results=10, jsonify=True)
 
     # test for get_video_info
     # video_info_df = youtube.get_video_info(res, to_csv=True)
 
     # test for get_video_comment
-    comment_df = youtube.get_video_comment('hRPqJfo483c', max_results=20, to_csv=True)
+    comment_df = youtube.get_video_comment('gd1Ab-TeGCY', max_results=20, to_csv=True)
     print(comment_df)
